@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13059-024-03312-9
+  title: 'RIBAP: a comprehensive bacterial core genome annotation pipeline for pangenome
+    calculation beyond the species level'
+  authors:
+  - Kevin Lamkiewicz
+  - Lisa-Marie Barf
+  - Konrad Sachse
+  - "Martin H\xF6lzer"
+  publisher: Genome Biology
+  date: '2024-07-01'
+  link: https://doi.org/gt28rc
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.12688/f1000research.136683.2
   title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
     genome from short-read sequencing data via CoVpipe2'
