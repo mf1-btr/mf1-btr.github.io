@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: MF1 Research and Innovation
+title: MF1 Bioinformatics and Translational Research
 subtitle:
-description: The MF1 Innovation and Research team is dedicated to advancing bioinformatics methods for health research. Our main goal is the development of novel genome-based solutions and analytical methods. By combining our research with powerful sequencing technologies, we seek optimized approaches to answer complex scientific questions in the field of public health.
+description: The MF1 Bioinformatics and Translational Research team is dedicated to advancing bioinformatics methods for health research. Our main goal is the development of novel genome-based solutions and analytical methods. By combining our research with powerful sequencing technologies, we seek optimized approaches to answer complex scientific questions in the field of public health.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  #  email: contact@mf1-innovation.com
+  #  email: contact@mf1-btr.com
   #  orcid: 0000-0001-8713-9213
   #  google-scholar: ETJoidYAAAAJ
-  #  github: mf1-innovation
-  #  twitter: mf1-innovation
-  #  youtube: mf1-innovation
+  #  github: mf1-btr
+  #  twitter: mf1-btr
+  #  youtube: mf1-btr
 
 ### jekyll settings
 

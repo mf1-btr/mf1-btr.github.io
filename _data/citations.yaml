@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.12688/f1000research.136683.2
+  title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
+    genome from short-read sequencing data via CoVpipe2'
+  authors:
+  - Marie Lataretu
+  - Oliver Drechsel
+  - "Ren\xE9 Kmiecinski"
+  - Kathrin Trappe
+  - "Martin H\xF6lzer"
+  - Stephan Fuchs
+  publisher: F1000Research
+  date: '2024-04-16'
+  link: https://doi.org/gtrmd5
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btae175
+  title: 'POCP-nf: an automatic Nextflow pipeline for calculating the percentage of
+    conserved proteins in bacterial taxonomy'
+  authors:
+  - "Martin H\xF6lzer"
+  publisher: Bioinformatics
+  date: '2024-03-29'
+  link: https://doi.org/gtprn8
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.03.07.583829
   title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
     Variants of Interest

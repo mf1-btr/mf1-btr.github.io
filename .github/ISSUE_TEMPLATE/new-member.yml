@@ -22,7 +22,7 @@ body:
     attributes:
       label: URL name
       description: How would you like your name to appear in the link to your member page? It should be hyphen-separated, all lower case, with no non-ascii characters or accents.
-      placeholder: ex. matt-huska -> https://mf1-innovation.github.io/members/matt-huska.html
+      placeholder: ex. matt-huska -> https://mf1-btr.github.io/members/matt-huska.html
     validations:
       required: true
   - type: input
