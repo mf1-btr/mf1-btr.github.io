@@ -27,4 +27,4 @@ Note: this list currently includes all publications by lab members, including wo
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" style="rich" %}
