@@ -1,5 +1,41 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1099/acmi.0.000936.v1
+  title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
+    include multiple truncated CDS of the major outer membrane porin (MOMP), more
+    than 150 unique genes, and an ortholog of the chlamydial plasticity zone'
+  authors:
+  - "Martin H\xF6lzer"
+  - Charlotte Reuschel
+  - Fabien Vorimore
+  - Karine Laroucau
+  - Konrad Sachse
+  publisher: Microbiology Society
+  date: '2024-10-23'
+  link: https://doi.org/g8n7tz
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v16081210
+  title: 'Endogenous Bornavirus-like Elements in Bats: Evolutionary Insights from
+    the Conserved Riboviral L-Gene in Microbats and Its Antisense Transcription in
+    Myotis daubentonii'
+  authors:
+  - Muriel Ritsch
+  - Tom Eulenfeld
+  - Kevin Lamkiewicz
+  - Andreas Schoen
+  - Friedemann Weber
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  publisher: Viruses
+  date: '2024-07-27'
+  link: https://doi.org/gt5z96
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-024-03312-9
   title: 'RIBAP: a comprehensive bacterial core genome annotation pipeline for pangenome
     calculation beyond the species level'
@@ -59,6 +95,23 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-03-08'
   link: https://doi.org/gtmcs5
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giae051
+  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
+    wastewater sequencing data
+  authors:
+  - "Eva A\xDFmann"
+  - Shelesh Agrawal
+  - Laura Orschler
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - "Martin H\xF6lzer"
+  publisher: GigaScience
+  date: '2024-01-01'
+  link: https://doi.org/gt3rtw
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
   plugin: orcid.py
@@ -516,7 +569,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/jpy.13083
-  title: A marine <i>Chlamydomonas</i> sp. emerging as an algal model
+  title: A marine<i>Chlamydomonas</i>sp. emerging as an algal model
   authors:
   - David Carrasco Flores
   - Markus Fricke
@@ -825,7 +878,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gigascience/giz039
-  title: 'De novo transcriptome assembly: A comprehensive cross-species comparison
+  title: '<i>De novo</i> transcriptome assembly: A comprehensive cross-species comparison
     of short-read RNA-Seq assemblers'
   authors:
   - "Martin H\xF6lzer"
@@ -1181,6 +1234,26 @@
   link: https://doi.org/gmg9sz
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1681/ASN.0000000503
+  title: "Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease\u2013\
+    MUC1 27dupC Pathogenic Variant through Exome Sequencing"
+  authors:
+  - Ilias Bensouna
+  - Thomas Robert
+  - Xavier Vanhoye
+  - Marine Dancer
+  - Laure Raymond
+  - "Pierre Delaug\xE8re"
+  - Pascale Hilbert
+  - Hugues Richard
+  - Laurent Mesnard
+  publisher: Journal of the American Society of Nephrology
+  date: '2024-09-26'
+  link: https://doi.org/g59fbv
+  orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.01.09.574630
@@ -2283,10 +2356,10 @@
   - Haiyang Hu
   - Dubravka Vucicevic
   - Anne Musahl
-  - Ulf Orom
+  - Ulf Andersson Orom
   - Martin Vingron
   publisher: Genome Biology
-  date: '2013-01-01'
+  date: '2013-08-16'
   link: https://doi.org/gtjmkw
   orcid: 0000-0002-0912-745X
   member: matt-huska
