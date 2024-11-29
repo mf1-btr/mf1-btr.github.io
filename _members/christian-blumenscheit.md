@@ -3,6 +3,8 @@ name: Christian Blumenscheit
 member: christian-blumenscheit
 image: images/members/christian-blumenscheit.jpg
 role: postdoc
+aliases:
+  - Christian Blumenscheit
 links:
   orcid: 0000-0001-8987-2355
 ---
