@@ -98,21 +98,26 @@
     - Gene expression
     - Web service
 
+- title: CLEAN
+  image: images/software/clean.png
+  link: https://github.com/rki-mf1/clean
+  description: A nextflow pipeline for decontamination of short reads, long reads and contigs.
+  repo: rki-mf1/clean
+  tags:
+    - Nextflow
+    - Pipeline
+    - Nanopore
+    - Illumina
+    - Sequencing
 
-# - title: Cool Web App
-#   subtitle: a subtitle
-#   image: images/photo.jpg
-#   link: https://github.com/
-#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#   repo: greenelab/lab-website-template
-#   tags:
-#     - software
-#
-# - title: Cool Web Server
-#   subtitle: a subtitle
-#   image: images/photo.jpg
-#   link: https://github.com/
-#   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-#   repo: greenelab/lab-website-template
-#   tags:
-#     - software
+- title: CoVpipe2
+  image: images/software/covpipe2.png
+  link: https://github.com/rki-mf1/CoVpipe2
+  description: SARS-CoV-2 genome reconstruction for Illumina data in Nextflow
+  repo: rki-mf1/covpipe2
+  tags:
+    - Nextflow
+    - Pipeline
+    - Illumina
+    - SARS-CoV-2
+ 
