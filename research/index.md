@@ -15,7 +15,7 @@ Our research currently focuses on metagenomics, pangenomics, and wastewater surv
 
 ## Highlighted
 
-{% include list.html data="citations" component="citation" style="rich" filters="group: highlighted" %}
+{% include list.html data="citations" component="citation" style="rich" filter="group == 'highlighted'" %}
 
 {% include section.html %}
 

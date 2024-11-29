@@ -17,10 +17,10 @@ It is important to us that our bioinformatics research also leads to robust, eas
 
 ## Featured
 
-{% include list.html component="card" data="software" filters="group: featured" %}
+{% include list.html component="card" data="software" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="software" filters="group: " style="small" %}
+{% include list.html component="card" data="software" filter="group != 'featured'" style="small" %}
