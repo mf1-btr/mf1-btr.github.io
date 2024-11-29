@@ -14,8 +14,8 @@ We work closely with the other teams at the [Genome Competence Center](https://w
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: team\-lead" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!team\-lead$)" %}
+{% include list.html data="members" component="portrait" filter="role == 'team-lead'" %}
+{% include list.html data="members" component="portrait" filter="role != 'team-lead'" %}
 
 {% include section.html %}
 
