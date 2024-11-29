@@ -5,6 +5,7 @@ image: images/members/hugues-richard.jpg
 role: senior-scientist
 description: Senior Scientist/Project PI
 aliases:
+  - Hugues Richard
   - H Richard
   - H. Richard
 links:
