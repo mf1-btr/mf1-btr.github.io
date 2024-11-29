@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://mf1-btr.github.io/sitemap.xml
