@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #! /bin/bash
 
 # print folder contents for debugging
