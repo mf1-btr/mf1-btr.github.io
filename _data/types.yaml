@@ -31,9 +31,9 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+alumni:
+  icon: fa-solid fa-flag-checkered
+  description: Alumni
 
 # general
 
@@ -100,7 +100,7 @@ github:
   link: https://github.com/$VALUE
 
 twitter:
-  icon: fa-brands fa-twitter
+  icon: fa-brands fa-x-twitter
   text: Twitter
   tooltip: Twitter
   link: https://twitter.com/$VALUE
