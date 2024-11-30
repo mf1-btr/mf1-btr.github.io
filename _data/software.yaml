@@ -101,7 +101,7 @@
 - title: CLEAN
   image: images/software/clean.png
   link: https://github.com/rki-mf1/clean
-  description: A nextflow pipeline for decontamination of short reads, long reads and contigs.
+  description: A Nextflow pipeline for decontamination of short reads, long reads and contigs.
   repo: rki-mf1/clean
   tags:
     - Nextflow
@@ -113,7 +113,7 @@
 - title: CoVpipe2
   image: images/software/covpipe2.png
   link: https://github.com/rki-mf1/CoVpipe2
-  description: SARS-CoV-2 genome reconstruction for Illumina data in Nextflow
+  description: SARS-CoV-2 genome reconstruction for Illumina data in Nextflow.
   repo: rki-mf1/covpipe2
   tags:
     - Nextflow

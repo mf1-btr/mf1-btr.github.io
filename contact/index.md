@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 {%
   include button.html
   type="email"
-  text="hoelzer.martin@gmail.com"
-  link="hoelzer.martin@gmail.com"
+  text="HoelzerM@rki.de"
+  link="HoelzerM@rki.de"
 %}
 {%
   include button.html
