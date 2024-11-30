@@ -7,10 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-id-card" %}Impressum
 
-**This is a private webpage.**
-
-Dr. Martin Hölzer
-Email: hoelzer.martin AT gmail.com
+Martin Hölzer, PhD
+Email: HoelzerM AT rki.de
 
 ---
 

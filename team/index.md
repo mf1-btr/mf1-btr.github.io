@@ -18,14 +18,16 @@ We work closely with the other teams at the [Genome Competence Center](https://w
 
 {% include section.html %}
 
-Additional team members:
+Team structure:
 
+* 1 Team lead
+* 2 Senior Scientists
 * 2 PostDocs
-* 2 PhD students
-* 3 co-supervised PhD students together with the [ZKI-PH](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html)
+* 5 PhD students (2 co-supervised w/ [ZKI-PH](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html)
 * 3 Master students
-* 1 Student assistant
-* 1 Guest scientist
+* 1 Bachlor student
+
+We frequently welcome and host guest scientists in our team. 
 
 {% include section.html %}
 
