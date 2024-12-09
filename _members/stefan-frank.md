@@ -9,6 +9,6 @@ links:
   twitter: StefanFrankBio
 ---
 
-I'm Stefan, a Ph.D. student with the MF1 Research and Innovation Team at the Robert Koch Institute. I graduated from Technische Universität Braunschweig in 2021 with a M.S. in Biology. Before joining RKI, I worked in quality control for Octapharma, established the virtual reality project 'Tasthirn' at TU Braunschweig's Institute for Cell Physiology and contributed to metabolomics research combating Parkinson's disease at TU Braunschweig's Institute for Bioinformatics and Biochemistry.
+I'm Stefan, a Ph.D. student with the MF1 Bioinformatics and Translational Research team at the Robert Koch Institute. I graduated from Technische Universität Braunschweig in 2021 with a M.S. in Biology. Before joining RKI, I worked in quality control for Octapharma, established the virtual reality project 'Tasthirn' at TU Braunschweig's Institute for Cell Physiology and contributed to metabolomics research combating Parkinson's disease at TU Braunschweig's Institute for Bioinformatics and Biochemistry.
 
 My current research at the RKI focuses on Positive Selection Analysis as a tool to predict and fight Antimicrobial Resistance in bacteria.
