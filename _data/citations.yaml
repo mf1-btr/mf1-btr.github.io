@@ -112,8 +112,8 @@
   publisher: GigaScience
   date: '2024-01-01'
   link: https://doi.org/gt3rtw
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
+  orcid: 0000-0002-7249-069X
+  member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/database/baad071
@@ -200,8 +200,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-02'
   link: https://doi.org/gtjmjf
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
+  orcid: 0000-0002-7249-069X
+  member: eva-assmann
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
@@ -2692,5 +2692,39 @@
   link: https://doi.org/g8sd4m
   orcid: 0000-0001-8987-2355
   member: christian-blumenscheit
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jcim.2c00050
+  title: 'KiSSim: Predicting Off-Targets from Structural Similarities in the Kinome'
+  authors:
+  - Dominique Sydow
+  - "Eva A\xDFmann"
+  - Albert J. Kooistra
+  - Friedrich Rippmann
+  - Andrea Volkamer
+  publisher: Journal of Chemical Information and Modeling
+  date: '2022-05-10'
+  link: https://doi.org/g8t52n
+  orcid: 0000-0002-7249-069X
+  member: eva-assmann
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules26030629
+  title: Analyzing Kinase Similarity in Small Molecule and Protein Structural Space
+    to Explore the Limits of Multi-Target Screening
+  authors:
+  - Denis Schmidt
+  - Magdalena M. Scharf
+  - Dominique Sydow
+  - "Eva A\xDFmann"
+  - "Maria Mart\xED-Solano"
+  - Marina Keul
+  - Andrea Volkamer
+  - Peter Kolb
+  publisher: Molecules
+  date: '2021-01-26'
+  link: https://doi.org/g8t52p
+  orcid: 0000-0002-7249-069X
+  member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
