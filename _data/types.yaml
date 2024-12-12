@@ -23,13 +23,25 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+master:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+researcher:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Researcher
+
+hiwi:
+  icon: fa-solid fa-code
+  description: Student Assistant
+
+guest:
+  icon: fa-solid fa-code
+  description: Guest Researcher
 
 alumni:
   icon: fa-solid fa-flag-checkered

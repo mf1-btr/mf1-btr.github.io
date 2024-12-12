@@ -2,7 +2,7 @@
 name: David Fischer
 member: david-fischer
 image: images/members/david-fischer.jpg
-role: undergrad
+role: master
 aliases:
   - David Stephan Fischer
   - David Fischer
