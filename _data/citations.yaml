@@ -582,8 +582,8 @@
   publisher: Journal of Phycology
   date: '2020-11-22'
   link: https://doi.org/gtjmjt
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cancers13030476
@@ -934,8 +934,8 @@
   publisher: Virus Research
   date: '2019-01-01'
   link: https://doi.org/gtjmj6
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/433078
@@ -2726,5 +2726,102 @@
   link: https://doi.org/g8t52p
   orcid: 0000-0002-7249-069X
   member: eva-assmann
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkad442
+  title: "Sequential disruption of SPLASH-identified vRNA\u2013vRNA interactions challenges\
+    \ their role in influenza A virus genome packaging"
+  authors:
+  - Celia Jakob
+  - Gabriel L Lovate
+  - "Daniel Desir\xF2"
+  - "Lara Gie\xDFler"
+  - "Redmond\_P Smyth"
+  - Roland Marquet
+  - Kevin Lamkiewicz
+  - Manja Marz
+  - Martin Schwemmle
+  - Hardin Bolte
+  publisher: Nucleic Acids Research
+  date: '2023-05-24'
+  link: https://doi.org/g8vf54
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:36062555
+  title: Rotavirus RNA chaperone mediates global transcriptome-wide increase in RNA
+    backbone flexibility.
+  authors:
+  - Aaztli Coria
+  - Anastacia Wienecke
+  - Michael L Knight
+  - "Daniel Desir\xF2"
+  - Alain Laederach
+  - Alexander Borodavka
+  publisher: Nucleic acids research
+  date: '2022-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36062555
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nargab/lqz006
+  title: A comprehensive annotation and differential expression analysis of short
+    and long non-coding RNAs in 16 bat genomes
+  authors:
+  - Nelly F Mostajo
+  - Marie Lataretu
+  - Sebastian Krautwurst
+  - Florian Mock
+  - "Daniel Desir\xF2"
+  - Kevin Lamkiewicz
+  - Maximilian Collatz
+  - Andreas Schoen
+  - Friedemann Weber
+  - Manja Marz
+  - "Martin H\xF6lzer"
+  publisher: NAR Genomics and Bioinformatics
+  date: '2019-09-30'
+  link: https://doi.org/gsxrhc
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/738526
+  title: A comprehensive annotation and differential expression analysis of short
+    and long non-coding RNAs in 16 bat genomes
+  authors:
+  - Nelly Mostajo Berrospi
+  - Marie Lataretu
+  - Sebastian Krautwurst
+  - Florian Mock
+  - "Daniel Desir\xF2"
+  - Kevin Lamkiewicz
+  - Maximilian Collatz
+  - Andreas Schoen
+  - Friedemann Weber
+  - Manja Marz
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-19'
+  link: https://doi.org/gkxbt8
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/424002
+  title: 'SilentMutations (SIM): a tool for analyzing long-range RNA-RNA interactions
+    in viral genomes and structured RNAs'
+  authors:
+  - "Daniel Desir\xF2"
+  - "Martin H\xF6lzer"
+  - Bashar Ibrahim
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-09-23'
+  link: https://doi.org/gkwcvr
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
   plugin: orcid.py
   file: orcid.yaml
