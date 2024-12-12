@@ -2,7 +2,7 @@
 name: Mustafa Helal
 member: mustafa-helal
 image: images/members/mustafa-helal.jpg
-role: undergrad
+role: researcher
 aliases:
   - Mustafa Helal
   - Helal M
