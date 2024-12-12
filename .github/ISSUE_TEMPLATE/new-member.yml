@@ -26,6 +26,14 @@ body:
     validations:
       required: true
   - type: input
+    id: role
+    attributes:
+      label: Title/Role
+      description: What is your job title or role in the group?
+      placeholder: ex. phd, guest, hiwi
+    validations:
+      required: false
+  - type: input
     id: orcid-id
     attributes:
       label: ORCID identifier

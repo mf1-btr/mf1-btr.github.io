@@ -39,6 +39,10 @@ hiwi:
   icon: fa-solid fa-code
   description: Student Assistant
 
+guest:
+  icon: fa-solid fa-code
+  description: Guest Researcher
+
 alumni:
   icon: fa-solid fa-flag-checkered
   description: Alumni
