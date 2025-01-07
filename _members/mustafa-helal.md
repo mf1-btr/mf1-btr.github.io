@@ -2,7 +2,8 @@
 name: Mustafa Helal
 member: mustafa-helal
 image: images/members/mustafa-helal.jpg
-role: researcher
+role: alumni
+description: Alumni Researcher
 aliases:
   - Mustafa Helal
   - Helal M

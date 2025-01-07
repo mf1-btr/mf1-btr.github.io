@@ -2,7 +2,8 @@
 name: Christian Blumenscheit
 member: christian-blumenscheit
 image: images/members/christian-blumenscheit.jpg
-role: postdoc
+role: alumni
+description: Alumni Postdoctoral Researcher
 aliases:
   - Christian Blumenscheit
 links:
