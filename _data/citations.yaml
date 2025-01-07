@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1099/acmi.0.000936.v2
+  title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
+    include multiple truncated major outer membrane proteins (MOMP), unique genes,
+    and chlamydial plasticity zone orthologs'
+  authors:
+  - "Martin H\xF6lzer"
+  - Charlotte Reuschel
+  - Fabien Vorimore
+  - Karine Laroucau
+  - Konrad Sachse
+  publisher: Microbiology Society
+  date: '2025-01-06'
+  link: https://doi.org/g8x2fk
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1099/acmi.0.000936.v1
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated CDS of the major outer membrane porin (MOMP), more
