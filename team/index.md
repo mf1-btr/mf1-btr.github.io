@@ -11,10 +11,12 @@ We believe in creating a diverse environment with an open and inclusive culture 
 
 We work closely with the other teams at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) on various cross-sectional projects.
 
+{% comment %}
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'team-lead'" %}
 {% include list.html data="members" component="portrait" filter="role != 'team-lead' and role != 'alumni'" %}
+{% endcomment %}
 
 {% include section.html %}
 
@@ -29,8 +31,10 @@ Team structure:
 
 We frequently welcome and host guest scientists in our team. 
 
+{% comment %}
 {% include section.html %}
 
 ## Alumni
 
 {% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+{% endcomment %}
