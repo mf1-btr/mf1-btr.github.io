@@ -133,6 +133,30 @@
   member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2023.12.06.570356
+  title: 'Unlocking the Full Potential of Nanopore Sequencing: Tips, Tricks, and Advanced
+    Data Analysis Techniques'
+  authors:
+  - Daria Meyer
+  - Winfried Goettsch
+  - Jannes Spannenberg
+  - Bettina Stieber
+  - Sebastian Krautwurst
+  - "Martin H\xF6lzer"
+  - Christian Brandt
+  - "J\xF6rg Linde"
+  - "Christian H\xF6ner zu Siederdissen"
+  - Akash Srivastava
+  - Milena Zarkovic
+  - Damian Wollny
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-07'
+  link: https://doi.org/g83t2q
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/database/baad071
   title: "Managing and\_monitoring a pandemic: showcasing a practical approach for\_\
     the genomic surveillance of\_SARS-CoV-2"
