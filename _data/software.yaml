@@ -1,6 +1,6 @@
 - title: VirusWarn
   group: featured
-  image: images/software/viruswarn.jpg
+  image: images/software/viruswarn.jpeg
   link: https://rki-mf1.github.io/viruswarn-doc/
   description: A mutation-based early warning system to prioritize concerning SARS-CoV-2 and influenza virus variants from sequencing data.
   repo: rki-mf1/viruswarn-doc
