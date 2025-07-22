@@ -1,5 +1,15 @@
-- title: Breakfast
+- title: VirusWarn
   group: featured
+  image: images/software/viruswarn.jpeg
+  link: https://rki-mf1.github.io/viruswarn-doc/
+  description: A mutation-based early warning system to prioritize concerning SARS-CoV-2 and influenza virus variants from sequencing data.
+  repo: rki-mf1/viruswarn-doc
+  tags:
+    - SARS-CoV-2
+    - influenza
+    - Nextflow
+
+- title: Breakfast
   image: images/software/breakfast.png
   link: https://github.com/rki-mf1/breakfast
   description: Fast detection of putative transmission chains in large (>1 million) sets of SARS-CoV-2 genomic sequences.
