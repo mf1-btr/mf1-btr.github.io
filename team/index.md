@@ -24,10 +24,9 @@ Team structure:
 
 * 1 Team lead
 * 2 Senior Scientists
-* 2 PostDocs
+* 1 PostDoc
 * 5 PhD students (2 co-supervised w/ [ZKI-PH](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/ZKI-PH/ZKI-PH.html))
-* 3 Master students
-* 1 Bachlor student
+* 2 Master students
 
 We frequently welcome and host guest scientists in our team. 
 
