@@ -157,8 +157,8 @@
   publisher: Computational and Structural Biotechnology Journal
   date: '2025-01-01'
   link: https://doi.org/g88ks8
-  orcid: 0009-0000-1608-9431
-  member: christina-kirschbaum
+  orcid: 0000-0003-2608-2596
+  member: sofiap
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/acmi.0.000936.v1
@@ -3041,5 +3041,988 @@
   link: https://doi.org/gkwcvr
   orcid: 0000-0003-3928-9094
   member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-024-08477-8
+  title: SARS-CoV-2 evolution on a dynamic immune landscape
+  authors:
+  - N. Alexia Raharinirina
+  - Nils Gubela
+  - "Daniela B\xF6rnigen"
+  - Maureen Rebecca Smith
+  - Djin-Ye Oh
+  - Matthias Budt
+  - Christin Mache
+  - Claudia Schillings
+  - Stephan Fuchs
+  - "Ralf D\xFCrrwald"
+  - Thorsten Wolff
+  - "Martin H\xF6lzer"
+  - Sofia Paraskevopoulou
+  - Max von Kleist
+  publisher: Nature
+  date: '2025-01-29'
+  link: https://doi.org/g9tv7r
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v16091444
+  title: 'CIEVaD: A Lightweight Workflow Collection for the Rapid and On-Demand Deployment
+    of End-to-End Testing for Genomic Variant Detection'
+  authors:
+  - Thomas Krannich
+  - Dimitri Ternovoj
+  - Sofia Paraskevopoulou
+  - Stephan Fuchs
+  publisher: Viruses
+  date: '2024-09-11'
+  link: https://doi.org/g9tv7t
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001963
+  title: 'ICTV Virus Taxonomy Profile: Kolmioviridae 2024'
+  authors:
+  - Jens H. Kuhn
+  - Artem Babaian
+  - Laura M. Bergner
+  - "Paul D\xE9ny"
+  - Dieter Glebe
+  - Masayuki Horie
+  - Eugene V. Koonin
+  - Mart Krupovic
+  - Sofia Paraskevopoulou
+  - "Marcos de la Pe\xF1a"
+  - Teemu Smura
+  - Jussi Hepojoki
+  publisher: Journal of General Virology
+  date: '2024-02-29'
+  link: https://doi.org/g9tv7v
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/22221751.2023.2245916
+  title: "Neighbourhood watch: genomic epidemiology of SARS-CoV-2 variants circulating\
+    \ in a German federal state, Mecklenburg-Western Pomerania, in 2020\u20132022"
+  authors:
+  - Christian Kohler
+  - Jacqueline King
+  - Lina Stacker
+  - Katja V. Goller
+  - Juliane Moritz
+  - Anne Pohlmann
+  - Neetika Nath
+  - Ana Tzvetkova
+  - Maximilian Rieck
+  - Sofia Paraskevopoulou
+  - Denis Beslic
+  - "Martin H\xF6lzer"
+  - Stephan Fuchs
+  - Janine Ziemann
+  - Lars Kaderali
+  - Martin Beer
+  - "Nils-Olaf H\xFCbner"
+  - Karsten Becker
+  publisher: Emerging Microbes &amp; Infections
+  date: '2023-08-22'
+  link: https://doi.org/g9tv7w
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001906
+  title: 'ICTV Virus Taxonomy Profile: Xinmoviridae 2023'
+  authors:
+  - Stephen Sharpe
+  - Sofia Paraskevopoulou
+  publisher: Journal of General Virology
+  date: '2023-10-26'
+  link: https://doi.org/g9tv7x
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:37622664
+  title: Annual (2023) taxonomic update of RNA-directed RNA polymerase-encoding negative-sense
+    RNA viruses (realm
+  authors:
+  - Jens H Kuhn
+  - Junya Abe
+  - Scott Adkins
+  - Sergey V Alkhovsky
+  - "Tatjana Av\u0161i\u010D-\u017Dupanc"
+  - "Mar\xEDa A Ayll\xF3n"
+  - Justin Bahl
+  - Anne Balkema-Buschmann
+  - Matthew J Ballinger
+  - Virendra Kumar Baranwal
+  - Martin Beer
+  - Nicolas Bejerman
+  - "\xC9ric Bergeron"
+  - Nadine Biedenkopf
+  - Carol D Blair
+  - Kim R Blasdell
+  - Arnaud G Blouin
+  - Steven B Bradfute
+  - Thomas Briese
+  - Paul A Brown
+  - Ursula J Buchholz
+  - Michael J Buchmeier
+  - Alexander Bukreyev
+  - Felicity Burt
+  - "Carmen B\xFCttner"
+  - Charles H Calisher
+  - Mengji Cao
+  - Inmaculada Casas
+  - Kartik Chandran
+  - "R\xE9mi N Charrel"
+  - Krishna Kumar Chaturvedi
+  - Kar Mun Chooi
+  - Anya Crane
+  - "Elena Dal B\xF3"
+  - Juan Carlos de la Torre
+  - William M de Souza
+  - Rik L de Swart
+  - Humberto Debat
+  - Nolwenn M Dheilly
+  - Nicholas Di Paola
+  - Francesco Di Serio
+  - Ralf G Dietzgen
+  - Michele Digiaro
+  - J Felix Drexler
+  - W Paul Duprex
+  - "Ralf D\xFCrrwald"
+  - Andrew J Easton
+  - Toufic Elbeaino
+  - "Koray Erg\xFCnay"
+  - Guozhong Feng
+  - Andrew E Firth
+  - Anthony R Fooks
+  - Pierre B H Formenty
+  - "Juliana Freitas-Ast\xFAa"
+  - Selma Gago-Zachert
+  - "Mar\xEDa Laura Garc\xEDa"
+  - "Adolfo Garc\xEDa-Sastre"
+  - Aura R Garrison
+  - Thomas R Gaskin
+  - Wenjie Gong
+  - Jean-Paul J Gonzalez
+  - "Jo\xEBlleGo\xFCy de Bellocq"
+  - Anthony Griffiths
+  - Martin H Groschup
+  - "Ines G\xFCnther"
+  - "Stephan G\xFCnther"
+  - John Hammond
+  - Yusuke Hasegawa
+  - Kazusa Hayashi
+  - Jussi Hepojoki
+  - Colleen M Higgins
+  - "Seiji Hong\u014D"
+  - Masayuki Horie
+  - Holly R Hughes
+  - Adam J Hume
+  - Timothy H Hyndman
+  - Kenichi Ikeda
+  - "D\xE0oh\xF3ng Ji\u0101ng"
+  - Gilda B Jonson
+  - Sandra Junglen
+  - Boris Klempa
+  - "Jonas Klingstr\xF6m"
+  - "Hideki Kond\u014D"
+  - Eugene V Koonin
+  - Mart Krupovic
+  - Kenji Kubota
+  - Gael Kurath
+  - Lies Laenen
+  - Amy J Lambert
+  - "Ji\xE0nr\xF3ng L\u01D0"
+  - Jun-Min Li
+  - Ran Liu
+  - Igor S Lukashevich
+  - Robin M MacDiarmid
+  - Piet Maes
+  - Marco Marklewitz
+  - Sergio H Marshall
+  - Shin-Yi L Marzano
+  - John W McCauley
+  - Ali Mirazimi
+  - "Elke M\xFChlberger"
+  - Tomoyuki Nabeshima
+  - Rayapati Naidu
+  - Tomohide Natsuaki
+  - Beatriz Navarro
+  - "Jos\xE9 A Navarro"
+  - Yutaro Neriya
+  - Sergey V Netesov
+  - Gabriele Neumann
+  - Norbert Nowotny
+  - "M\xE1rcio R T Nunes"
+  - Francisco M Ochoa-Corona
+  - Tomoyuki Okada
+  - Gustavo Palacios
+  - "Vicente Pall\xE1s"
+  - Anna Papa
+  - Sofia Paraskevopoulou
+  - Colin R Parrish
+  - "Alex Pauvolid-Corr\xEAa"
+  - "Janusz T Paw\u0119ska"
+  - "Daniel R P\xE9rez"
+  - Florian Pfaff
+  - Richard K Plemper
+  - Thomas S Postler
+  - Lee O Rabbidge
+  - Sheli R Radoshitzky
+  - "Pedro L Ramos-Gonz\xE1lez"
+  - Marius Rehanek
+  - Renato O Resende
+  - Carina A Reyes
+  - "Tha\xEDs C S Rodrigues"
+  - "V\xEDctor Romanowski"
+  - Dennis Rubbenstroth
+  - Luisa Rubino
+  - Jonathan A Runstadler
+  - Sead Sabanadzovic
+  - Sabrina Sadiq
+  - Maria S Salvato
+  - Takahide Sasaya
+  - Martin Schwemmle
+  - Stephen R Sharpe
+  - Mang Shi
+  - Yoshifumi Shimomoto
+  - Venkidusamy Kavi Sidharthan
+  - Manuela Sironi
+  - Sophie Smither
+  - Jin-Won Song
+  - Kirsten M Spann
+  - Jessica R Spengler
+  - Mark D Stenglein
+  - Ayato Takada
+  - Sawana Takeyama
+  - Akio Tatara
+  - Robert B Tesh
+  - Natalie J Thornburg
+  - Xin Tian
+  - Nicole D Tischler
+  - Yasuhiro Tomitaka
+  - "Keiz\u014D Tomonaga"
+  - "No\xEBl Tordo"
+  - Changchun Tu
+  - Massimo Turina
+  - Ioannis E Tzanetakis
+  - Anna Maria Vaira
+  - Bernadette van den Hoogen
+  - Bert Vanmechelen
+  - Nikos Vasilakis
+  - Martin Verbeek
+  - Susanne von Bargen
+  - Jiro Wada
+  - Victoria Wahl
+  - Peter J Walker
+  - Thomas B Waltzek
+  - Anna E Whitfield
+  - Yuri I Wolf
+  - Han Xia
+  - Evanthia Xylogianni
+  - Hironobu Yanagisawa
+  - Kazutaka Yano
+  - Gongyin Ye
+  - Zhiming Yuan
+  - F Murilo Zerbini
+  - Guilin Zhang
+  - Song Zhang
+  - Yong-Zhen Zhang
+  - Lu Zhao
+  - "Arnfinn Lodden \xD8kland"
+  publisher: The Journal of general virology
+  date: '2023-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37622664
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001869
+  title: 'ICTV Virus Taxonomy Profile: Lispiviridae 2023'
+  authors:
+  - Jun-Min Li
+  - Fei Wang
+  - Gongyin Ye
+  - Sofia Paraskevopoulou
+  publisher: Journal of General Virology
+  date: '2023-07-11'
+  link: https://doi.org/g9tv7z
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cid/ciac399
+  title: Advancing Precision Vaccinology by Molecular and Genomic Surveillance of
+    Severe Acute Respiratory Syndrome Coronavirus 2 in Germany, 2021
+  authors:
+  - Djin Ye Oh
+  - "Martin H\xF6lzer"
+  - Sofia Paraskevopoulou
+  - Maria Trofimova
+  - Felix Hartkopf
+  - Matthias Budt
+  - Marianne Wedde
+  - Hugues Richard
+  - Berit Haldemann
+  - Teresa Domaszewska
+  - Janine Reiche
+  - Kathrin Keeren
+  - "Aleksandar Radoni\u0107"
+  - "Julia Patricia Ramos Calder\xF3n"
+  - Maureen Rebecca Smith
+  - Annika Brinkmann
+  - Kathrin Trappe
+  - Oliver Drechsel
+  - Kathleen Klaper
+  - Sascha Hein
+  - Eberhardt Hildt
+  - Walter Haas
+  - "S\xE9bastien Calvignac-Spencer"
+  - Torsten Semmler
+  - "Ralf D\xFCrrwald"
+  - "Andrea Th\xFCrmer"
+  - Christian Drosten
+  - Stephan Fuchs
+  - "Stefan Kr\xF6ger"
+  - Max von Kleist
+  - Thorsten Wolff
+  - Barbara Biere
+  - Konrad Bode
+  - Victor Corman
+  - Michael Erren
+  - Patrick Finzer
+  - Roger Grosser
+  - Manuel Haffner
+  - Beate Hermann
+  - Christina Kiel
+  - Andi Krumbholz
+  - Kristian Meinck
+  - Andreas Nitsche
+  - Markus Petzold
+  - Thomas Schwanz
+  - Florian Szabados
+  - Friedemann Tewald
+  - Carsten Tiemann
+  publisher: Clinical Infectious Diseases
+  date: '2022-06-25'
+  link: https://doi.org/g668hj
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v14071522
+  title: Women in the European Virus Bioinformatics Center
+  authors:
+  - Franziska Hufsky
+  - Ana Abecasis
+  - Patricia Agudelo-Romero
+  - Magda Bletsa
+  - Katherine Brown
+  - Claudia Claus
+  - Stefanie Deinhardt-Emmer
+  - Li Deng
+  - Caroline C. Friedel
+  - "Mar\xEDa In\xE9s Gismondi"
+  - Evangelia Georgia Kostaki
+  - "Denise K\xFChnert"
+  - Urmila Kulkarni-Kale
+  - Karin J. Metzner
+  - Irmtraud M. Meyer
+  - Laura Miozzi
+  - Luca Nishimura
+  - Sofia Paraskevopoulou
+  - "Alba P\xE9rez-Catalu\xF1a"
+  - Janina Rahlff
+  - Emma Thomson
+  - Charlotte Tumescheit
+  - Lia van der Hoek
+  - Lore Van Espen
+  - Anne-Mieke Vandamme
+  - Maryam Zaheri
+  - Neta Zuckerman
+  - Manja Marz
+  publisher: Viruses
+  date: '2022-07-12'
+  link: https://doi.org/gqkdn2
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25646/10118
+  title: "Synopse virologischer Analysen im Nationalen Referenzzentrum f\xFCr Influenzaviren\
+    \ w\xE4hrend der COVID-19-Pandemie"
+  authors:
+  - "Ralf D\xFCrrwald"
+  - Marianne Wedde
+  - Susanne Duwe
+  - Barbara Biere
+  - Janine Reiche
+  - "Sophie K\xF6ndgen"
+  - "Julia Patricia Ramos Calder\xF3n"
+  - Matthias Budt
+  - Oliver Drechsel
+  - Stephan Fuchs
+  - Berit Haldemann
+  - Felix Hartkopf
+  - "Martin H\xF6lzer"
+  - Matthew Huska
+  - Sandra Kaiser
+  - Kathrin Keeren
+  - "Stefan Kr\xF6ger"
+  - Sofia Paraskevopoulou
+  - Aleksandar Radonic
+  - Bernd Reinhardt
+  - Torsten Semmler
+  - "Andrea Th\xFCrmer"
+  - Kathrin Trappe
+  - Katja Winter
+  - Martin Mielke
+  - Silke Buda
+  - Djin-Ye Oh
+  - Thorsten Wolff
+  publisher: Robert Koch-Institut
+  date: '2022-06-02'
+  link: https://doi.org/g9tv72
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001734
+  title: "History and classification of Aigai virus (formerly Crimean\u2013Congo haemorrhagic\
+    \ fever virus genotype VI)"
+  authors:
+  - "Anna Papa (\u0386\u03BD\u03BD\u03B1 \u03A0\u03B1\u03C0\u03AC)"
+  - Marco Marklewitz
+  - "Sofia Paraskevopoulou (\u03A3\u03BF\u03C6\u03AF\u03B1 \u03A0\u03B1\u03C1\u03B1\
+    \u03C3\u03BA\u03B5\u03C5\u03BF\u03C0\u03BF\u03CD\u03BB\u03BF\u03C5)"
+  - Aura R. Garrison
+  - "Sergey V. Alkhovsky (\u0410\u043B\u044C\u0445\u043E\u0432\u0441\u043A\u0438\u0439\
+    \ \u0421\u0435\u0440\u0433\u0435\u0439 \u0412\u043B\u0430\u0434\u0438\u043C\u0438\
+    \u0440\u043E\u0432\u0438\u0447)"
+  - "Tatjana Av\u0161i\u010D-\u017Dupanc"
+  - Dennis A. Bente
+  - "\xC9ric Bergeron"
+  - Felicity Burt
+  - Nicholas Di Paola
+  - "Koray Erg\xFCnay"
+  - Roger Hewson
+  - Ali Mirazimi
+  - Amadou Alpha Sall
+  - Jessica R. Spengler
+  - Thomas S. Postler
+  - Gustavo Palacios
+  - Jens H. Kuhn
+  publisher: Journal of General Virology
+  date: '2022-04-12'
+  link: https://doi.org/g9tv73
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1502293/v1
+  title: Rapid characterization of a Delta-Omicron SARS-CoV-2 recombinant detected
+    in Europe
+  authors:
+  - Etienne SIMON-LORIERE
+  - Xavier Montagutelli
+  - Frederic Lemoine
+  - Flora Donati
+  - Franck Touret
+  - Jerome Bourret
+  - Matthieu Prot
+  - Sandie Munier
+  - Mikael Attia
+  - Laurine Conquet
+  - Scott Nguyen
+  - faustine amara
+  - Anna Maisa
+  - Lucie Fournier
+  - Angela Brisbarre
+  - oceane dehan
+  - Laurine Levillayer
+  - Vithiagaran Gunalan
+  - Jannik Fonager
+  - Morten Rasmussen
+  - Stephan Kemeny
+  - Abdelali Zrhidri
+  - Thomas Duret
+  - Sylvie Behillil
+  - Vincent Enouf
+  - Christophe Rodriguez
+  - Slim Fourati
+  - Jean-Michel Pawlotsky
+  - Nicolas Capron
+  - Hugues Leroy
+  - Elodie Alessandri-Gradt
+  - Florian Juszczak
+  - Laetitia Gheysen
+  - "V\xE9ronique Brodard"
+  - "H\xE9l\xE8ne Moret"
+  - Martine Bos
+  - Matthijs Welkers
+  - Claus Scholz
+  - Sofia Paraskevopoulou
+  - Laurence Josset
+  - Claire Cervi
+  - Brigitte Couzon
+  - "St\xE9phanie Marque-Juillet"
+  - Deborah Delaune
+  - Slim El Khiari
+  - Julien Fumey
+  - Marie-Charlotte Hallouin-Bernard
+  - "F\xE9lix Rey"
+  - Yazdan Yazdanpanah
+  - Bruno Coignard
+  - Xavier de Lamballerie
+  - Sylvie van der Werf
+  - Axelle Paquin
+  publisher: Springer Science and Business Media LLC
+  date: '2022-04-04'
+  link: https://doi.org/g9tv74
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/aem.01954-21
+  title: "<i>Jingchuvirales</i>\n            : a New Taxonomical Framework for a Rapidly\
+    \ Expanding Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod\
+    \ Subphyla"
+  authors:
+  - Nicholas Di Paola
+  - Nolwenn M. Dheilly
+  - Sandra Junglen
+  - Sofia Paraskevopoulou
+  - Thomas S. Postler
+  - Mang Shi
+  - Jens H. Kuhn
+  publisher: Applied and Environmental Microbiology
+  date: '2022-03-22'
+  link: https://doi.org/gqmnkh
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001681
+  title: 'ICTV Virus Taxonomy Profile: Nyamiviridae 2021'
+  authors:
+  - Ralf G. Dietzgen
+  - Andrew E. Firth
+  - "D\xE0oh\xF3ng Ji\u0101ng"
+  - Sandra Junglen
+  - Hideki Kondo
+  - Jens H. Kuhn
+  - Sofia Paraskevopoulou
+  - Nikos Vasilakis
+  publisher: Journal of General Virology
+  date: '2021-11-05'
+  link: https://doi.org/g9tv75
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:34463877
+  title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae),
+    including the large orders Bunyavirales and Mononegavirales.'
+  authors:
+  - Jens H Kuhn
+  - Scott Adkins
+  - Bernard R Agwanda
+  - Rim Al Kubrusli
+  - Sergey V Alkhovsky
+  - Gaya K Amarasinghe
+  - "Tatjana Av\u0161i\u010D-\u017Dupanc"
+  - "Mar\xEDa A Ayll\xF3n"
+  - Justin Bahl
+  - Anne Balkema-Buschmann
+  - Matthew J Ballinger
+  - Christopher F Basler
+  - Sina Bavari
+  - Martin Beer
+  - Nicolas Bejerman
+  - Andrew J Bennett
+  - Dennis A Bente
+  - "\xC9ric Bergeron"
+  - Brian H Bird
+  - Carol D Blair
+  - Kim R Blasdell
+  - Dag-Ragnar Blystad
+  - Jamie Bojko
+  - Wayne B Borth
+  - Steven Bradfute
+  - Rachel Breyta
+  - Thomas Briese
+  - Paul A Brown
+  - Judith K Brown
+  - Ursula J Buchholz
+  - Michael J Buchmeier
+  - Alexander Bukreyev
+  - Felicity Burt
+  - "Carmen B\xFCttner"
+  - Charles H Calisher
+  - Mengji Cao
+  - Inmaculada Casas
+  - Kartik Chandran
+  - "R\xE9mi N Charrel"
+  - Qi Cheng
+  - Yuya Chiaki
+  - Marco Chiapello
+  - Il-Ryong Choi
+  - Marina Ciuffo
+  - J Christopher S Clegg
+  - Ian Crozier
+  - "Elena Dal B\xF3"
+  - Juan Carlos de la Torre
+  - Xavier de Lamballerie
+  - Rik L de Swart
+  - Humberto Debat
+  - Nolwenn M Dheilly
+  - Emiliano Di Cicco
+  - Nicholas Di Paola
+  - Francesco Di Serio
+  - Ralf G Dietzgen
+  - Michele Digiaro
+  - Olga Dolnik
+  - Michael A Drebot
+  - J Felix Drexler
+  - William G Dundon
+  - W Paul Duprex
+  - "Ralf D\xFCrrwald"
+  - John M Dye
+  - Andrew J Easton
+  - Hideki Ebihara
+  - Toufic Elbeaino
+  - "Koray Erg\xFCnay"
+  - Hugh W Ferguson
+  - Anthony R Fooks
+  - Marco Forgia
+  - Pierre B H Formenty
+  - "Jana Fr\xE1nov\xE1"
+  - "Juliana Freitas-Ast\xFAa"
+  - Jingjing Fu
+  - "Stephanie F\xFCrl"
+  - Selma Gago-Zachert
+  - "George F\xFA G\u0101o"
+  - "Mar\xEDa Laura Garc\xEDa"
+  - "Adolfo Garc\xEDa-Sastre"
+  - Aura R Garrison
+  - Thomas Gaskin
+  - Jean-Paul J Gonzalez
+  - Anthony Griffiths
+  - Tony L Goldberg
+  - Martin H Groschup
+  - "Stephan G\xFCnther"
+  - Roy A Hall
+  - John Hammond
+  - Tong Han
+  - Jussi Hepojoki
+  - Roger Hewson
+  - Jiang Hong
+  - Ni Hong
+  - Seiji Hongo
+  - Masayuki Horie
+  - John S Hu
+  - Tao Hu
+  - Holly R Hughes
+  - "Florian H\xFCttner"
+  - Timothy H Hyndman
+  - M Ilyas
+  - Risto Jalkanen
+  - "D\xE0oh\xF3ng Ji\u0101ng"
+  - Gilda B Jonson
+  - Sandra Junglen
+  - Fujio Kadono
+  - Karia H Kaukinen
+  - Michael Kawate
+  - Boris Klempa
+  - "Jonas Klingstr\xF6m"
+  - Gary Kobinger
+  - Igor Koloniuk
+  - "Hideki Kond\u014D"
+  - Eugene V Koonin
+  - Mart Krupovic
+  - Kenji Kubota
+  - Gael Kurath
+  - Lies Laenen
+  - Amy J Lambert
+  - Stanley L Langevin
+  - Benhur Lee
+  - Elliot J Lefkowitz
+  - Eric M Leroy
+  - Shaorong Li
+  - Longhui Li
+  - "Ji\xE0nr\xF3ng L\u01D0"
+  - Huazhen Liu
+  - Igor S Lukashevich
+  - Piet Maes
+  - William Marciel de Souza
+  - Marco Marklewitz
+  - Sergio H Marshall
+  - Shin-Yi L Marzano
+  - Sebastien Massart
+  - John W McCauley
+  - Michael Melzer
+  - Nicole Mielke-Ehret
+  - Kristina M Miller
+  - Tobi J Ming
+  - Ali Mirazimi
+  - Gideon J Mordecai
+  - "Hans-Peter M\xFChlbach"
+  - "Elke M\xFChlberger"
+  - Rayapati Naidu
+  - Tomohide Natsuaki
+  - "Jos\xE9 A Navarro"
+  - Sergey V Netesov
+  - Gabriele Neumann
+  - Norbert Nowotny
+  - "M\xE1rcio R T Nunes"
+  - Alejandro Olmedo-Velarde
+  - Gustavo Palacios
+  - "Vicente Pall\xE1s"
+  - "Bernadett P\xE1lyi"
+  - Anna Papa
+  - Sofia Paraskevopoulou
+  - Adam C Park
+  - Colin R Parrish
+  - David A Patterson
+  - "Alex Pauvolid-Corr\xEAa"
+  - "Janusz T Paw\u0119ska"
+  - Susan Payne
+  - Carlotta Peracchio
+  - "Daniel R P\xE9rez"
+  - Thomas S Postler
+  - Liying Qi
+  - Sheli R Radoshitzky
+  - Renato O Resende
+  - Carina A Reyes
+  - Bertus K Rima
+  - Gabriel Robles Luna
+  - "V\xEDctor Romanowski"
+  - Paul Rota
+  - Dennis Rubbenstroth
+  - Luisa Rubino
+  - Jonathan A Runstadler
+  - Sead Sabanadzovic
+  - Amadou Alpha Sall
+  - Maria S Salvato
+  - Rosemary Sang
+  - Takahide Sasaya
+  - Angela D Schulze
+  - Martin Schwemmle
+  - Mang Shi
+  - "Xi\u01CEoh\xF3ng Sh\xED"
+  - "Zh\xE8ngl\xEC Sh\xED"
+  - Yoshifumi Shimomoto
+  - Yukio Shirako
+  - Stuart G Siddell
+  - Peter Simmonds
+  - Manuela Sironi
+  - Guy Smagghe
+  - Sophie Smither
+  - Jin-Won Song
+  - Kirsten Spann
+  - Jessica R Spengler
+  - Mark D Stenglein
+  - David M Stone
+  - Jari Sugano
+  - Curtis A Suttle
+  - Amy Tabata
+  - Ayato Takada
+  - Shigeharu Takeuchi
+  - David P Tchouassi
+  - Amy Teffer
+  - Robert B Tesh
+  - Natalie J Thornburg
+  - Yasuhiro Tomitaka
+  - "Keiz\u014D Tomonaga"
+  - "No\xEBl Tordo"
+  - Baldwyn Torto
+  - Jonathan S Towner
+  - Shinya Tsuda
+  - Changchun Tu
+  - Massimo Turina
+  - Ioannis E Tzanetakis
+  - Janice Uchida
+  - Tomio Usugi
+  - Anna Maria Vaira
+  - Marta Vallino
+  - Bernadette van den Hoogen
+  - Arvind Varsani
+  - Nikos Vasilakis
+  - Martin Verbeek
+  - Susanne von Bargen
+  - Jiro Wada
+  - Victoria Wahl
+  - Peter J Walker
+  - Lin-Fa Wang
+  - Guoping Wang
+  - Yanxiang Wang
+  - Yaqin Wang
+  - Muhammad Waqas
+  - "T\xE0iy\xFAn W\xE8i"
+  - Shaohua Wen
+  - Anna E Whitfield
+  - John V Williams
+  - Yuri I Wolf
+  - Jiangxiang Wu
+  - Lei Xu
+  - Hironobu Yanagisawa
+  - Caixia Yang
+  - Zuokun Yang
+  - F Murilo Zerbini
+  - Lifeng Zhai
+  - Yong-Zhen Zhang
+  - Song Zhang
+  - Jinguo Zhang
+  - Zhe Zhang
+  - Xueping Zhou
+  publisher: Archives of virology
+  date: '2021-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34463877
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/ve/veab030
+  title: Viromics of extant insect orders unveil the evolution of the flavi-like superfamily
+  authors:
+  - Sofia Paraskevopoulou
+  - "Simon K\xE4fer"
+  - Florian Zirkel
+  - Alexander Donath
+  - Malte Petersen
+  - Shanlin Liu
+  - Xin Zhou
+  - Christian Drosten
+  - Bernhard Misof
+  - Sandra Junglen
+  publisher: Virus Evolution
+  date: '2021-01-01'
+  link: https://doi.org/gqvz25
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13140/RG.2.2.31235.43041
+  title: Create one new realm (Ribozyviria) including one new family (Kolmioviridae)
+    including genus Deltavirus and seven new genera for a total of 15 species
+  authors:
+  - Jussi Hepojoki
+  - Udo Hetzel
+  - Sofia Paraskevopoulou
+  - Christian Drosten
+  - Francisco Murilo Zerbini
+  - Eugene V Koonin
+  - Mart Krupovic
+  - Valerian V. Dolja
+  - Jens H. Kuhn
+  publisher: Unpublished
+  date: '2021-01-01'
+  link: https://doi.org/g9tv76
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v12121398
+  title: The International Virus Bioinformatics Meeting 2020
+  authors:
+  - Franziska Hufsky
+  - Niko Beerenwinkel
+  - Irmtraud M. Meyer
+  - Simon Roux
+  - Georgia May Cook
+  - Cormac M. Kinsella
+  - Kevin Lamkiewicz
+  - Mike Marquet
+  - David F. Nieuwenhuijse
+  - Ingrida Olendraite
+  - Sofia Paraskevopoulou
+  - Francesca Young
+  - Ronald Dijkman
+  - Bashar Ibrahim
+  - Jenna Kelly
+  - Philippe Le Mercier
+  - Manja Marz
+  - Alban Ramette
+  - Volker Thiel
+  publisher: Viruses
+  date: '2020-12-06'
+  link: https://doi.org/gk7pv8
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2006750117
+  title: "Mammalian deltavirus without hepadnavirus coinfection in the neotropical\
+    \ rodent\n            <i>Proechimys semispinosus</i>"
+  authors:
+  - Sofia Paraskevopoulou
+  - Fabian Pirzer
+  - Nora Goldmann
+  - Julian Schmid
+  - Victor Max Corman
+  - Lina Theresa Gottula
+  - Simon Schroeder
+  - Andrea Rasche
+  - Doreen Muth
+  - Jan Felix Drexler
+  - Alexander Christoph Heni
+  - Georg Joachim Eibner
+  - Rachel A. Page
+  - Terry C. Jones
+  - "Marcel A. M\xFCller"
+  - Simone Sommer
+  - Dieter Glebe
+  - Christian Drosten
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2020-07-10'
+  link: https://doi.org/g9tv77
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1008224
+  title: Re-assessing the diversity of negative strand RNA viruses in insects
+  authors:
+  - "Simon K\xE4fer"
+  - Sofia Paraskevopoulou
+  - Florian Zirkel
+  - Nicolas Wieseke
+  - Alexander Donath
+  - Malte Petersen
+  - Terry C. Jones
+  - Shanlin Liu
+  - Xin Zhou
+  - Martin Middendorf
+  - Sandra Junglen
+  - Bernhard Misof
+  - Christian Drosten
+  publisher: PLOS Pathogens
+  date: '2019-12-12'
+  link: https://doi.org/gpm9zc
+  orcid: 0000-0003-2608-2596
+  member: sofiap
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.001260
+  title: Diverse novel phleboviruses in sandflies from the Panama Canal area, Central
+    Panama
+  authors:
+  - Marco Marklewitz
+  - Larissa C. Dutari
+  - Sofia Paraskevopoulou
+  - Rachel A. Page
+  - Jose R. Loaiza
+  - Sandra Junglen
+  publisher: Journal of General Virology
+  date: '2019-06-01'
+  link: https://doi.org/g9tv78
+  orcid: 0000-0003-2608-2596
+  member: sofiap
   plugin: orcid.py
   file: orcid.yaml
