@@ -1,5 +1,115 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/immuno5030027
+  title: Next-Generation Sequencing Analysis in Greek Patients with Predominantly
+    Antibody Deficiencies
+  authors:
+  - Achilleas P. Galanopoulos
+  - Sofia Raftopoulou
+  - Styliani Sarrou
+  - Alexia Matziri
+  - Stamatia Papoutsopoulou
+  - Grigorios Stratakos
+  - Varvara A. Mouchtouri
+  - "Martin H\xF6lzer"
+  - Christos Hadjichristodoulou
+  - Fani Kalala
+  - Matthaios Speletas
+  publisher: Immuno
+  date: '2025-07-16'
+  link: https://doi.org/g9tr2n
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nargab/lqaf105
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/g9tr2p
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-60231-4
+  title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
+    variants of interest
+  authors:
+  - Katrina Norwood
+  - Zhi-Luo Deng
+  - Susanne Reimering
+  - Gary Robertson
+  - Mohammad-Hadi Foroughmand-Araabi
+  - Sama Goliaei
+  - "Martin H\xF6lzer"
+  - Frank Klawonn
+  - Alice C. McHardy
+  publisher: Nature Communications
+  date: '2025-07-08'
+  link: https://doi.org/g9s4jr
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s44263-025-00138-w
+  title: Leveraging wastewater sequencing to strengthen global public health surveillance
+  authors:
+  - Victor Gordeev
+  - "Martin H\xF6lzer"
+  - "Daniel Desir\xF2"
+  - Iryna V. Goraichuk
+  - Sergey Knyazev
+  - Helena Solo-Gabriele
+  - Pavel Skums
+  - Smruthi Karthikeyan
+  - Alexandria Evans
+  - Shelesh Agrawal
+  - Alexander G. Lucaci
+  - Christopher E. Mason
+  - Justin M. Su
+  - Cynthia Gibas
+  - Niranjan Nagarajan
+  - Rafael Peres da Silva
+  - Nicolae Drabcinski
+  - Viorel Munteanu
+  - Lingyu Zhan
+  - Julia Rubin
+  - Nicholas C. Wu
+  - Andrew Trister
+  - Dumitru Ciorba
+  - Viorel Bostan
+  - Andrei Lobiuc
+  - Mihai Covasa
+  - Roel A. Ophoff
+  - Alex Zelikovsky
+  - Mihai Dimian
+  - Serghei Mangul
+  publisher: BMC Global and Public Health
+  date: '2025-03-21'
+  link: https://doi.org/g89hgq
+  orcid: 0000-0003-3928-9094
+  member: daniel-desiro
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.01.29.635492
+  title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
+    Nanopore sequencing enables reproducible analysis of DNA modifications'
+  authors:
+  - Valentina Galeone
+  - Johanna Dabernig-Heinz
+  - Mara Lohde
+  - Christian Brandt
+  - Christian Kohler
+  - Gabriel E. Wagner
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-02'
+  link: https://doi.org/g84h9m
+  orcid: 0009-0005-1973-851X
+  member: valentina-galeone
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -15,6 +125,40 @@
   link: https://doi.org/g8x2fk
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/acmi.0.000936.v3
+  title: 'Exploring the genomic landscape of Chlamydiifrater species: novel features
+    include multiple truncated major outer membrane proteins, unique genes and chlamydial
+    plasticity zone orthologs'
+  authors:
+  - "Martin H\xF6lzer"
+  - Charlotte Reuschel
+  - Fabien Vorimore
+  - Karine Laroucau
+  - Konrad Sachse
+  publisher: Access Microbiology
+  date: '2025-01-01'
+  link: https://doi.org/g84h9n
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.csbj.2025.03.010
+  title: 'VirusWarn: A mutation-based early warning system to prioritize concerning
+    SARS-CoV-2 and influenza virus variants from sequencing data'
+  authors:
+  - Christina Kirschbaum
+  - Kunaphas Kongkitimanon
+  - Stefan Frank
+  - "Martin H\xF6lzer"
+  - Sofia Paraskevopoulou
+  - Hugues Richard
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2025-01-01'
+  link: https://doi.org/g88ks8
+  orcid: 0009-0000-1608-9431
+  member: christina-kirschbaum
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/acmi.0.000936.v1
@@ -133,6 +277,30 @@
   member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2023.12.06.570356
+  title: 'Unlocking the Full Potential of Nanopore Sequencing: Tips, Tricks, and Advanced
+    Data Analysis Techniques'
+  authors:
+  - Daria Meyer
+  - Winfried Goettsch
+  - Jannes Spannenberg
+  - Bettina Stieber
+  - Sebastian Krautwurst
+  - "Martin H\xF6lzer"
+  - Christian Brandt
+  - "J\xF6rg Linde"
+  - "Christian H\xF6ner zu Siederdissen"
+  - Akash Srivastava
+  - Milena Zarkovic
+  - Damian Wollny
+  - Manja Marz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-12-07'
+  link: https://doi.org/g83t2q
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/database/baad071
   title: "Managing and\_monitoring a pandemic: showcasing a practical approach for\_\
     the genomic surveillance of\_SARS-CoV-2"
@@ -194,7 +362,10 @@
   authors:
   - Marie Lataretu
   - Sebastian Krautwurst
+  - Matthew R. Huska
+  - Mike Marquet
   - Adrian Viehweger
+  - Sascha D. Braun
   - Christian Brandt
   - "Martin H\xF6lzer"
   publisher: Cold Spring Harbor Laboratory
@@ -1251,6 +1422,36 @@
   link: https://doi.org/gmg9sz
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s44221-025-00444-5
+  title: Augmentation of wastewater-based epidemiology with machine learning to support
+    global health surveillance
+  authors:
+  - "Eva A\xDFmann"
+  - Timo Greiner
+  - Hugues Richard
+  - Matthew Wade
+  - Shelesh Agrawal
+  - Fabian Amman
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - Markus Landthaler
+  - Serghei Mangul
+  - Viorel Munteanu
+  - Fotis Psomopoulos
+  - Maureen Smith
+  - Maria Trofimova
+  - Alexander Ullrich
+  - Max von Kleist
+  - Emanuel Wyler
+  - "Martin H\xF6lzer"
+  - Christopher Irrgang
+  publisher: Nature Water
+  date: '2025-06-02'
+  link: https://doi.org/g9pngw
+  orcid: 0000-0002-7249-069X
+  member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1681/ASN.0000000503
