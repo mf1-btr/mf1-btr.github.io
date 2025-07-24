@@ -92,7 +92,7 @@
   member: daniel-desiro
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.01.29.635492
+- id: doi:10.1186/s12864-025-11592-z
   title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
     Nanopore sequencing enables reproducible analysis of DNA modifications'
   authors:
@@ -105,11 +105,13 @@
   - "Martin H\xF6lzer"
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-02'
-  link: https://doi.org/g84h9m
+  link: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-025-11592-z
   orcid: 0009-0005-1973-851X
   member: valentina-galeone
   plugin: orcid.py
   file: orcid.yaml
+  group: highlighted
+  image: images/research/bac-methylomes.png
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -392,7 +394,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
-  group: highlighted
 - id: doi:10.1101/2023.05.05.539552
   title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
     bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
