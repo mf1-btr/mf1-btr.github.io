@@ -92,7 +92,7 @@
   member: daniel-desiro
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s12864-025-11592-z
+- id: doi:10.1101/2025.01.29.635492
   title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
     Nanopore sequencing enables reproducible analysis of DNA modifications'
   authors:
@@ -105,13 +105,11 @@
   - "Martin H\xF6lzer"
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-02'
-  link: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-025-11592-z
+  link: https://doi.org/g84h9m
   orcid: 0009-0005-1973-851X
   member: valentina-galeone
   plugin: orcid.py
   file: orcid.yaml
-  group: highlighted
-  image: images/research/bac-methylomes.png
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -358,6 +356,7 @@
   file: sources.yaml
   image: images/research/virify.png
   repo: EBI-Metagenomics/emg-viral-pipeline
+  group: highlighted
 - id: doi:10.1101/2023.08.05.552089
   title: Targeted decontamination of sequencing data with CLEAN
   authors:
@@ -394,6 +393,7 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
+  group: highlighted
 - id: doi:10.1101/2023.05.05.539552
   title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
     bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
@@ -1454,8 +1454,6 @@
   member: eva-assmann
   plugin: orcid.py
   file: orcid.yaml
-  group: highlighted
-  image: images/research/ww-ai.png 
 - id: doi:10.1681/ASN.0000000503
   title: "Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease\u2013\
     MUC1 27dupC Pathogenic Variant through Exome Sequencing"
