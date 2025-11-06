@@ -22,16 +22,6 @@
   member: martin-hoelzer
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nargab/lqaf105
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/g9tr2p
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/s41467-025-60231-4
   title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
     variants of interest
@@ -48,6 +38,24 @@
   publisher: Nature Communications
   date: '2025-07-08'
   link: https://doi.org/g9s4jr
+  orcid: 0000-0001-7090-8717
+  member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nargab/lqaf105
+  title: Targeted decontamination of sequencing data with CLEAN
+  authors:
+  - Marie Lataretu
+  - Sebastian Krautwurst
+  - "Matthew\_R Huska"
+  - Mike Marquet
+  - Adrian Viehweger
+  - "Sascha\_D Braun"
+  - Christian Brandt
+  - "Martin H\xF6lzer"
+  publisher: NAR Genomics and Bioinformatics
+  date: '2025-07-04'
+  link: https://doi.org/g9tr2p
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
   plugin: orcid.py
@@ -1422,6 +1430,24 @@
   link: https://doi.org/gmg9sz
   orcid: 0000-0001-7090-8717
   member: martin-hoelzer
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s40472-025-00492-6
+  title: 'Genomic Donor-Recipient Mismatches in Kidney Transplantation: A Focus on
+    the Techniques and Approaches'
+  authors:
+  - Stephen Shoebridge
+  - Andreas Heinzel
+  - Michael Kammer
+  - "Ad\xE8le Dhuyser"
+  - Hugues Richard
+  - Laurent Mesnard
+  - Rainer Oberbauer
+  publisher: Current Transplantation Reports
+  date: '2025-08-30'
+  link: https://doi.org/g9z329
+  orcid: 0000-0001-7776-1340
+  member: hugues-richard
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s44221-025-00444-5
