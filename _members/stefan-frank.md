@@ -2,7 +2,8 @@
 name: Stefan Frank
 member: stefan-frank
 image: images/members/stefan-frank.jpg
-role: phd
+role: alumni
+description: Alumni Researcher
 links:
   orcid: 0009-0009-7070-1359
   github: StefanFrankBio

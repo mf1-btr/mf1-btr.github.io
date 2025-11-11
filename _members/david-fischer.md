@@ -2,7 +2,8 @@
 name: David Fischer
 member: david-fischer
 image: images/members/david-fischer.jpg
-role: master
+role: alumni
+description: Alumni Master Student
 aliases:
   - David Stephan Fischer
   - David Fischer
