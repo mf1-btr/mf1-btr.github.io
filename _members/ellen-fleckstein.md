@@ -2,7 +2,8 @@
 name: Ellen Fleckstein
 member: ellen-fleckstein
 image: images/members/ellen-fleckstein.jpg
-role: undergrad
+role: alumni
+description: Alumni Student
 links:
   orcid: 0009-0009-7781-6634
 ---
