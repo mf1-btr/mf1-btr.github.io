@@ -76,7 +76,7 @@ We are one team of the [Genome Competence Center (MF1)](https://www.rki.de/EN/In
 
 {%
   include feature.html
-  image="images/members/2023-team-xmas.png"
+  image="images/our-team.jpg"
   link="team"
   title="Our Team"
   text=text
