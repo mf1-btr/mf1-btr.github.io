@@ -12,7 +12,7 @@ links:
   orcid: 0000-0001-7090-8717
   google-scholar: DMZ7Hc8AAAAJ
   github: hoelzer
-  twitter: martinhoelzer
+  bluesky: martinhoelzer.bsky.social
 ---
 
 I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Institute/Organisation/Departments/MFI/MF1/mf1-genome-competence-centre-node.html) of the [Robert Koch Institute](https://www.rki.de/EN) (RKI) in Berlin, Germany. We study infectious diseases in a One Health context by applying real-time nanopore sequencing, pangenomics approaches, analyzing environmental samples such as wastewater, and studying microbial evolution using bioinformatics for genomic surveillance.
