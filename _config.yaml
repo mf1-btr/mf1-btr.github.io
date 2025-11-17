@@ -5,7 +5,7 @@ description: The Bioinformatics and Translational Research team is dedicated to 
 # Header and footer default to a black background, which is what we want right now
 # header: images/background.jpg
 # footer: images/background.jpg
-proofer: false
+proofer: true
 
 # site social media and other links
 links:
