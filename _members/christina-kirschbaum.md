@@ -1,5 +1,5 @@
 ---
-name: Christina Kirschbaum`
+name: Christina Kirschbaum
 member: christina-kirschbaum
 image: images/members/christina-kirschbaum.jpg
 role: phd
