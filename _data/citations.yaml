@@ -1617,14 +1617,6 @@
   link: https://doi.org/gwxh
   plugin: sources.py
   file: sources-manual.yaml
-- id: ppr:PPR88097
-  title: Europe PMC
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://europepmc.org/article/ppr/PPR88097
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: pmid:29890948
   title: 'DiNAMO: highly sensitive DNA motif discovery in high-throughput sequencing
     data.'
@@ -2132,27 +2124,6 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2005-03-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15774554
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:12824390
-  title: 'SIC: A tool to detect short inverted segments in a biological sequence.'
-  authors:
-  - David Robelin
-  - Hugues Richard
-  - Bernard Prum
-  publisher: Nucleic acids research
-  date: '2003-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/12824390
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:12824392
-  title: 'SPA: Simple web tool to assess statistical significance of DNA patterns.'
-  authors:
-  - H Richard
-  - G Nuel
-  publisher: Nucleic acids research
-  date: '2003-07-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/12824392
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1101/2022.10.13.511885
