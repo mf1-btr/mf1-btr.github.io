@@ -18,10 +18,8 @@
   publisher: Immuno
   date: '2025-07-16'
   link: https://doi.org/g9tr2n
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/s41467-025-60231-4
   title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
     variants of interest
@@ -38,10 +36,8 @@
   publisher: Nature Communications
   date: '2025-07-08'
   link: https://doi.org/g9s4jr
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/nargab/lqaf105
   title: Targeted decontamination of sequencing data with CLEAN
   authors:
@@ -56,10 +52,8 @@
   publisher: NAR Genomics and Bioinformatics
   date: '2025-07-04'
   link: https://doi.org/g9tr2p
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/s44263-025-00138-w
   title: Leveraging wastewater sequencing to strengthen global public health surveillance
   authors:
@@ -96,10 +90,8 @@
   publisher: BMC Global and Public Health
   date: '2025-03-21'
   link: https://doi.org/g89hgq
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2025.01.29.635492
   title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
     Nanopore sequencing enables reproducible analysis of DNA modifications'
@@ -114,10 +106,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2025-02-02'
   link: https://doi.org/g84h9m
-  orcid: 0009-0005-1973-851X
-  member: valentina-galeone
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -131,10 +121,8 @@
   publisher: Microbiology Society
   date: '2025-01-06'
   link: https://doi.org/g8x2fk
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/acmi.0.000936.v3
   title: 'Exploring the genomic landscape of Chlamydiifrater species: novel features
     include multiple truncated major outer membrane proteins, unique genes and chlamydial
@@ -148,10 +136,8 @@
   publisher: Access Microbiology
   date: '2025-01-01'
   link: https://doi.org/g84h9n
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.csbj.2025.03.010
   title: 'VirusWarn: A mutation-based early warning system to prioritize concerning
     SARS-CoV-2 and influenza virus variants from sequencing data'
@@ -165,10 +151,8 @@
   publisher: Computational and Structural Biotechnology Journal
   date: '2025-01-01'
   link: https://doi.org/g88ks8
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/acmi.0.000936.v1
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated CDS of the major outer membrane porin (MOMP), more
@@ -182,10 +166,8 @@
   publisher: Microbiology Society
   date: '2024-10-23'
   link: https://doi.org/g8n7tz
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v16081210
   title: 'Endogenous Bornavirus-like Elements in Bats: Evolutionary Insights from
     the Conserved Riboviral L-Gene in Microbats and Its Antisense Transcription in
@@ -201,10 +183,8 @@
   publisher: Viruses
   date: '2024-07-27'
   link: https://doi.org/gt5z96
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/s13059-024-03312-9
   title: 'RIBAP: a comprehensive bacterial core genome annotation pipeline for pangenome
     calculation beyond the species level'
@@ -216,10 +196,8 @@
   publisher: Genome Biology
   date: '2024-07-01'
   link: https://doi.org/gt28rc
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.12688/f1000research.136683.2
   title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
     genome from short-read sequencing data via CoVpipe2'
@@ -233,10 +211,8 @@
   publisher: F1000Research
   date: '2024-04-16'
   link: https://doi.org/gtrmd5
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/bioinformatics/btae175
   title: 'POCP-nf: an automatic Nextflow pipeline for calculating the percentage of
     conserved proteins in bacterial taxonomy'
@@ -245,10 +221,8 @@
   publisher: Bioinformatics
   date: '2024-03-29'
   link: https://doi.org/gtprn8
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2024.03.07.583829
   title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
     Variants of Interest
@@ -264,10 +238,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-03-08'
   link: https://doi.org/gtmcs5
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/gigascience/giae051
   title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
     wastewater sequencing data
@@ -281,10 +253,8 @@
   publisher: GigaScience
   date: '2024-01-01'
   link: https://doi.org/gt3rtw
-  orcid: 0000-0002-7249-069X
-  member: eva-assmann
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2023.12.06.570356
   title: 'Unlocking the Full Potential of Nanopore Sequencing: Tips, Tricks, and Advanced
     Data Analysis Techniques'
@@ -305,10 +275,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-12-07'
   link: https://doi.org/g83t2q
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/database/baad071
   title: "Managing and\_monitoring a pandemic: showcasing a practical approach for\_\
     the genomic surveillance of\_SARS-CoV-2"
@@ -322,10 +290,8 @@
   publisher: Database
   date: '2023-01-01'
   link: https://doi.org/gtjmjb
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.12688/f1000research.136683.1
   title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
     genome from short-read sequencing data via CoVpipe2'
@@ -339,10 +305,8 @@
   publisher: F1000Research
   date: '2023-09-01'
   link: https://doi.org/gtjmjc
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1371/journal.pcbi.1011422
   title: 'VIRify: An integrated detection, annotation and taxonomic classification
     pipeline using virus-specific protein profile hidden Markov models'
@@ -358,10 +322,8 @@
   publisher: PLOS Computational Biology
   date: '2023-08-28'
   link: https://doi.org/gs7gvv
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
   plugin: sources.py
-  file: sources.yaml
+  file: sources-highlighted.yaml
   image: images/research/virify.png
   repo: EBI-Metagenomics/emg-viral-pipeline
   group: highlighted
@@ -379,10 +341,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-06'
   link: https://doi.org/gtjmjd
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2023.06.02.543047
   title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
     wastewater sequencing data
@@ -396,10 +356,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-02'
   link: https://doi.org/gtjmjf
-  orcid: 0000-0002-7249-069X
-  member: eva-assmann
   plugin: sources.py
-  file: sources.yaml
+  file: sources-highlighted.yaml
   image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
   group: highlighted
 - id: doi:10.1101/2023.05.05.539552
@@ -413,10 +371,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-05-07'
   link: https://doi.org/gtjmjg
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2023.04.13.536562
   title: <i>De novo</i>genome assembly resolving repetitive structures enables genomic
     analysis of 35 European<i>Mycoplasma bovis</i>strains
@@ -432,10 +388,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-04-13'
   link: https://doi.org/gtjmjh
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2023.03.29.534691
   title: Sequencing accuracy and systematic errors of nanopore direct RNA sequencing
   authors:
@@ -448,10 +402,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-03-30'
   link: https://doi.org/gtjmjj
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.46471/gigabyte.75
   title: "Nanopore-based enrichment of antimicrobial resistance genes \u2013 a\_case-based\
     \ study"
@@ -465,10 +417,8 @@
   publisher: Gigabyte
   date: '2023-01-25'
   link: https://doi.org/gtjmjk
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/gigascience/giac110
   title: 'What the Phage: a scalable workflow for the identification and analysis
     of phage sequences'
@@ -483,10 +433,8 @@
   publisher: GigaScience
   date: '2022-01-01'
   link: https://doi.org/gsxcmw
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/bioinformatics/btac411
   title: 'CovRadar: continuously tracking and filtering SARS-CoV-2 mutations for genomic
     surveillance'
@@ -512,10 +460,8 @@
   publisher: Bioinformatics
   date: '2022-07-07'
   link: https://doi.org/gtjmjm
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2022.08.22.504484
   title: 'VIRify: an integrated detection, annotation and taxonomic classification
     pipeline using virus-specific protein profile hidden Markov models'
@@ -531,10 +477,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-08-22'
   link: https://doi.org/grcttn
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/jof8040323
   title: Near Chromosome-Level Genome Assembly and Annotation of Rhodotorula babjevae
     Strains Reveals High Intraspecific Divergence
@@ -548,10 +492,8 @@
   publisher: Journal of Fungi
   date: '2022-03-22'
   link: https://doi.org/gqvvg6
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v14010087
   title: Investigation of a Limited but Explosive COVID-19 Outbreak in a German Secondary
     School
@@ -566,10 +508,8 @@
   publisher: Viruses
   date: '2022-01-04'
   link: https://doi.org/gtjmjn
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/mgen.0.000741
   title: Context-aware genomic surveillance reveals hidden transmission of a carbapenemase-producing
     Klebsiella pneumoniae
@@ -590,10 +530,8 @@
   publisher: Microbial Genomics
   date: '2021-12-24'
   link: https://doi.org/gq5gt8
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/s41564-021-01011-w
   title: Integrating cultivation and metagenomics for a multi-kingdom view of skin
     microbiome diversity and functions
@@ -636,10 +574,8 @@
   publisher: Nature Microbiology
   date: '2021-12-24'
   link: https://doi.org/gqm76x
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2021.10.29.466389
   title: Comparative transcriptomics identifies the transcription factors BRANCHED1
     and TCP4, as well as the microRNA miR166 as candidate genes involved in the evolutionary
@@ -655,10 +591,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-11-01'
   link: https://doi.org/gtjmjp
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2021.07.28.454184
   title: The economical lifestyle of CPR bacteria in groundwater allows little preference
     for environmental drivers
@@ -675,10 +609,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-07-29'
   link: https://doi.org/gtjmjq
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.syapm.2021.126200
   title: 'Evidence for the existence of a new genus Chlamydiifrater gen. nov. inside
     the family Chlamydiaceae with two new species isolated from flamingo (Phoenicopterus
@@ -704,10 +636,8 @@
   publisher: Systematic and Applied Microbiology
   date: '2021-07-01'
   link: https://doi.org/grkfqm
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v13081491
   title: Rise and Fall of SARS-CoV-2 Lineage A.27 in Germany
   authors:
@@ -725,10 +655,8 @@
   publisher: Viruses
   date: '2021-07-29'
   link: https://doi.org/gtjmjr
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2021.05.07.443089
   title: poreCov - an easy to use, fast, and robust workflow for SARS-CoV-2 genome
     reconstruction via nanopore sequencing
@@ -743,10 +671,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-05-07'
   link: https://doi.org/gtjmjs
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1371/journal.pcbi.1008716
   title: Metagenomics workflow for hybrid assembly, differential coverage binning,
     metatranscriptomics and pathway analysis (MUFFIN)
@@ -760,10 +686,8 @@
   publisher: PLOS Computational Biology
   date: '2021-02-09'
   link: https://doi.org/gh65cq
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1111/jpy.13083
   title: A marine<i>Chlamydomonas</i>sp. emerging as an algal model
   authors:
@@ -778,10 +702,8 @@
   publisher: Journal of Phycology
   date: '2020-11-22'
   link: https://doi.org/gtjmjt
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/cancers13030476
   title: RUNX3 Transcript Variants Have Distinct Roles in Ovarian Carcinoma and Differently
     Influence Platinum Sensitivity and Angiogenesis
@@ -801,10 +723,8 @@
   publisher: Cancers
   date: '2021-01-26'
   link: https://doi.org/gtjmjv
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/cells10010080
   title: SLC35F2, a Transporter Sporadically Mutated in the Untranslated Region, Promotes
     Growth, Migration, and Invasion of Bladder Cancer Cells
@@ -817,10 +737,8 @@
   publisher: Cells
   date: '2021-01-06'
   link: https://doi.org/gtjmjw
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1111/1755-0998.13268
   title: 'A decade of de novo transcriptome assembly: Are we there yet?'
   authors:
@@ -828,10 +746,8 @@
   publisher: Molecular Ecology Resources
   date: '2020-10-29'
   link: https://doi.org/gtjmjx
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/genes11121487
   title: 'RNAflow: An Effective and Simple RNA-Seq Differential Gene Expression Pipeline
     Using Nextflow'
@@ -841,10 +757,8 @@
   publisher: Genes
   date: '2020-12-10'
   link: https://doi.org/gtjmjz
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/pathogens9110899
   title: Comparative Genome Analysis of 33 Chlamydia Strains Reveals Characteristic
     Features of Chlamydia Psittaci and Closely Related Species
@@ -862,10 +776,8 @@
   publisher: Pathogens
   date: '2020-10-28'
   link: https://doi.org/gp46pg
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1111/1462-2920.15186
   title: "Inclusion of Oxford Nanopore long reads improves all microbial and viral\
     \ metagenome\u2010assembled genomes from a complex aquifer system"
@@ -879,10 +791,8 @@
   publisher: Environmental Microbiology
   date: '2020-08-20'
   link: https://doi.org/gg7mvm
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2020.07.24.219899
   title: 'What the Phage: A scalable workflow for the identification and analysis
     of phage sequences'
@@ -897,10 +807,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-07-25'
   link: https://doi.org/gtjmj2
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2020.05.18.102731
   title: 'PoSeiDon: a Nextflow pipeline for the detection of evolutionary recombination
     events and positive selection'
@@ -910,10 +818,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-05-20'
   link: https://doi.org/gsxcw9
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2020.05.12.090019
   title: 'EpiDope: A Deep neural network for linear B-cell epitope prediction'
   authors:
@@ -926,10 +832,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-05-13'
   link: https://doi.org/gtjmj3
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2020.02.08.939843
   title: Metagenomics workflow for hybrid assembly, differential coverage binning,
     transcriptomics and pathway analysis (MUFFIN)
@@ -943,10 +847,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-02-08'
   link: https://doi.org/gkwvqq
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2019.12.18.880807
   title: Inclusion of Oxford Nanopore long reads improves all microbial and phage
     metagenome-assembled genomes from a complex aquifer system
@@ -960,10 +862,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-12-19'
   link: https://doi.org/gkwctb
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/855262
   title: 'Addressing dereplication crisis: Taxonomy-free reduction of massive genome
     collections using embeddings of protein content'
@@ -974,10 +874,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-11-25'
   link: https://doi.org/gkwh8h
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/gr.247064.118
   title: Direct RNA nanopore sequencing of full-length coronavirus genomes provides
     novel insights into structural variants and enables modification analysis
@@ -992,10 +890,8 @@
   publisher: Genome Research
   date: '2019-08-22'
   link: https://doi.org/gf7qm8
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:31465999
   title: Virus- and Interferon Alpha-Induced Transcriptomes of Cells from the Microbat
     Myotis daubentonii.
@@ -1010,10 +906,8 @@
   publisher: iScience
   date: '2019-08-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31465999
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:31257045
   title: Chlamydia buteonis, a new Chlamydia species isolated from a red-shouldered
     hawk.
@@ -1031,10 +925,8 @@
   publisher: Systematic and applied microbiology
   date: '2019-06-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31257045
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v11060484
   title: Evaluation of Sequencing Library Preparation Protocols for Viral Metagenomic
     Analysis from Pristine Aquifer Groundwaters
@@ -1049,10 +941,8 @@
   publisher: Viruses
   date: '2019-05-28'
   link: https://doi.org/gtjmj4
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v11050449
   title: Structure and Hierarchy of Influenza Virus Models Revealed by Reaction Network
     Analysis
@@ -1069,10 +959,8 @@
   publisher: Viruses
   date: '2019-05-16'
   link: https://doi.org/gtjmj5
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/gigascience/giz039
   title: '<i>De novo</i> transcriptome assembly: A comprehensive cross-species comparison
     of short-read RNA-Seq assemblers'
@@ -1082,10 +970,8 @@
   publisher: GigaScience
   date: '2019-05-01'
   link: https://doi.org/ghjvpr
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1084/jem.20181505
   title: "Cohesin-mediated NF-\u03BAB signaling limits hematopoietic stem cell self-renewal\
     \ in aging and inflammation"
@@ -1115,10 +1001,8 @@
   publisher: Journal of Experimental Medicine
   date: '2018-12-07'
   link: https://doi.org/gftqwv
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.virusres.2018.11.005
   title: "SilentMutations (SIM): A tool for analyzing long-range RNA\u2013RNA interactions\
     \ in viral genomes and structured RNAs"
@@ -1130,10 +1014,8 @@
   publisher: Virus Research
   date: '2019-01-01'
   link: https://doi.org/gtjmj6
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/433078
   title: 'PCAGO: An interactive web service to analyze RNA-Seq data with principal
     component analysis'
@@ -1143,10 +1025,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2018-10-03'
   link: https://doi.org/gkt7gj
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:28839035
   title: Complete Genome Sequence of JII-1961, a Bovine
   authors:
@@ -1159,10 +1039,8 @@
   publisher: Genome announcements
   date: '2017-08-24'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28839035
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:28490593
   title: Evolution and Antiviral Specificities of Interferon-Induced Mx Proteins of
     Bats against Ebola, Influenza, and Other RNA Viruses.
@@ -1181,10 +1059,8 @@
   publisher: Journal of virology
   date: '2017-07-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28490593
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:28284609
   title: Evaluation of associations between genotypes of Mycobacterium avium subsp.
     paratuberculsis and presence of intestinal lesions characteristic of paratuberculosis.
@@ -1196,10 +1072,8 @@
   publisher: Veterinary microbiology
   date: '2017-01-22'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28284609
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:28094291
   title: Differential Effects of Vitamins A and D on the Transcriptional Landscape
     of Human Monocytes during Infection.
@@ -1218,10 +1092,8 @@
   publisher: Scientific reports
   date: '2017-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28094291
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:28094339
   title: Massive Effect on LncRNAs in Human Monocytes During Fungal and Bacterial
     Infections and in Response to Vitamins A and D.
@@ -1241,10 +1113,8 @@
   publisher: Scientific reports
   date: '2017-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/28094339
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:29029728
   title: Software Dedicated to Virus Sequence Analysis "Bioinformatics Goes Viral".
   authors:
@@ -1253,10 +1123,8 @@
   publisher: Advances in virus research
   date: '2017-09-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29029728
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:27713552
   title: Differential transcriptional responses to Ebola and Marburg virus infection
     in bat and human cells.
@@ -1303,10 +1171,8 @@
   publisher: Scientific reports
   date: '2016-10-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27713552
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:27445388
   title: Whole-Genome Sequence of Chlamydia gallinacea Type Strain 08-1274/3.
   authors:
@@ -1321,10 +1187,8 @@
   publisher: Genome announcements
   date: '2016-07-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27445388
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:26384038
   title: Comprehensive insights in the Mycobacterium avium subsp. paratuberculosis
     genome using new WGS data of sheep strain JIII-386 from Germany.
@@ -1341,10 +1205,8 @@
   publisher: Genome biology and evolution
   date: '2015-09-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26384038
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:26227972
   title: Towards a comprehensive picture of alloacceptor tRNA remolding in metazoan
     mitochondrial genomes.
@@ -1362,10 +1224,8 @@
   publisher: Nucleic acids research
   date: '2015-07-30'
   link: https://www.ncbi.nlm.nih.gov/pubmed/26227972
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.20944/preprints202005.0376.v1
   title: 'Computational Strategies to Combat COVID-19: Useful Tools to Accelerate
     SARS-CoV-2 and Coronavirus Research'
@@ -1428,10 +1288,8 @@
   publisher: MDPI AG
   date: '2020-05-23'
   link: https://doi.org/gmg9sz
-  orcid: 0000-0001-7090-8717
-  member: martin-hoelzer
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1007/s40472-025-00492-6
   title: 'Genomic Donor-Recipient Mismatches in Kidney Transplantation: A Focus on
     the Techniques and Approaches'
@@ -1446,10 +1304,8 @@
   publisher: Current Transplantation Reports
   date: '2025-08-30'
   link: https://doi.org/g9z329
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/s44221-025-00444-5
   title: Augmentation of wastewater-based epidemiology with machine learning to support
     global health surveillance
@@ -1476,10 +1332,8 @@
   publisher: Nature Water
   date: '2025-06-02'
   link: https://doi.org/g9pngw
-  orcid: 0000-0002-7249-069X
-  member: eva-assmann
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1681/ASN.0000000503
   title: "Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease\u2013\
     MUC1 27dupC Pathogenic Variant through Exome Sequencing"
@@ -1496,10 +1350,8 @@
   publisher: Journal of the American Society of Nephrology
   date: '2024-09-26'
   link: https://doi.org/g59fbv
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2024.01.09.574630
   title: Reannotation of the zebra finch genome reveals undiscovered transcriptional
     complexity
@@ -1511,10 +1363,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-01-09'
   link: https://doi.org/gtjmkc
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1111/nph.19429
   title: "Dicer\u2010dependent heterochromatic small <scp>RNAs</scp> in the model\
     \ diatom species <i>Phaeodactylum tricornutum</i>"
@@ -1529,10 +1379,8 @@
   publisher: New Phytologist
   date: '2023-12-03'
   link: https://doi.org/gtjmkd
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/s40168-023-01670-3
   title: 'decOM: similarity-based microbial source tracking of ancient oral samples
     using k-mer-based methods'
@@ -1546,10 +1394,8 @@
   publisher: Microbiome
   date: '2023-11-06'
   link: https://doi.org/gtjmkf
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.isci.2023.108057
   title: 'aKmerBroom: Ancient oral DNA decontamination using Bloom filters on k-mer
     sets'
@@ -1562,10 +1408,8 @@
   publisher: iScience
   date: '2023-11-01'
   link: https://doi.org/gtjmkg
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2023.04.29.538821
   title: Building alternative splicing and evolution-aware sequence-structure maps
     for protein repeats
@@ -1577,10 +1421,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-04-30'
   link: https://doi.org/gtjmkh
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/bioinformatics/btac105
   title: 'ASES: visualizing evolutionary conservation of alternative splicing in proteins'
   authors:
@@ -1590,10 +1432,8 @@
   publisher: Bioinformatics
   date: '2022-02-21'
   link: https://doi.org/gtjmkj
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/mgen.0.000623
   title: "Mutations in the gdpP gene are a clinically relevant mechanism for \u03B2\
     -lactam resistance in meticillin-resistant Staphylococcus aureus lacking mec determinants"
@@ -1612,10 +1452,8 @@
   publisher: Microbial Genomics
   date: '2021-09-09'
   link: https://doi.org/gmqkwx
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/gr.274696.120
   title: Assessing conservation of alternative splicing with evolutionary splicing
     graphs
@@ -1628,10 +1466,8 @@
   publisher: Genome Research
   date: '2021-06-15'
   link: https://doi.org/gwxg
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:34043940
   title: A global metagenomic map of urban microbiomes and antimicrobial resistance.
   authors:
@@ -1737,10 +1573,8 @@
   publisher: Cell
   date: '2021-05-26'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34043940
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2020.11.14.382820
   title: Assessing Conservation of Alternative Splicing with Evolutionary Splicing
     Graphs
@@ -1753,10 +1587,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2020-11-15'
   link: https://doi.org/ghn3f3
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:32330240
   title: Targeted domain assembly for fast functional profiling of metagenomic datasets
     with S3A.
@@ -1768,10 +1600,8 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2020-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32330240
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.jmb.2020.01.032
   title: "Transcripts\u2019 Evolutionary History and Structural Dynamics Give Mechanistic\
     \ Insights into the Functional Diversity of the JNK Family"
@@ -1785,20 +1615,16 @@
   publisher: Journal of Molecular Biology
   date: '2020-03-01'
   link: https://doi.org/gwxh
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: ppr:PPR88097
   title: Europe PMC
   authors: []
   publisher: ''
   date: ''
   link: https://europepmc.org/article/ppr/PPR88097
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:29890948
   title: 'DiNAMO: highly sensitive DNA motif discovery in high-throughput sequencing
     data.'
@@ -1813,10 +1639,8 @@
   publisher: BMC bioinformatics
   date: '2018-06-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29890948
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:29543809
   title: 'Meet-U: Educating through research immersion.'
   authors:
@@ -1872,10 +1696,8 @@
   publisher: PLoS computational biology
   date: '2018-03-15'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29543809
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:29182778
   title: Jointly aligning a group of DNA reads improves accuracy of identifying large
     deletions.
@@ -1887,10 +1709,8 @@
   publisher: Nucleic acids research
   date: '2018-02-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29182778
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:29284540
   title: 'PureCLIP: capturing target-specific protein-RNA interaction footprints from
     single-nucleotide CLIP-seq data.'
@@ -1901,10 +1721,8 @@
   publisher: Genome biology
   date: '2017-12-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29284540
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:27255532
   title: The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB)
     International Consortium inaugural meeting report.
@@ -1912,10 +1730,8 @@
   publisher: Microbiome
   date: '2016-06-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27255532
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:25644381
   title: X-exome sequencing of 405 unresolved families identifies seven novel intellectual
     disability genes.
@@ -2007,10 +1823,8 @@
   publisher: Molecular psychiatry
   date: '2015-02-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25644381
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:25380961
   title: 'Ulysses: accurate detection of low-frequency structural variations in large
     insert-size sequencing libraries.'
@@ -2022,10 +1836,8 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2014-11-07'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25380961
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:25161220
   title: 'Fiona: a parallel and automatic strategy for read error correction.'
   authors:
@@ -2039,10 +1851,8 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2014-09-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25161220
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:25142710
   title: The diversity of small non-coding RNAs in the diatom Phaeodactylum tricornutum.
   authors:
@@ -2059,10 +1869,8 @@
   publisher: BMC genomics
   date: '2014-08-20'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25142710
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:24470570
   title: 'Parseq: reconstruction of microbial transcription landscape from RNA-Seq
     read counts using state-space models.'
@@ -2073,10 +1881,8 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2014-01-27'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24470570
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:24185837
   title: Assessment of transcript reconstruction methods for RNA-seq.
   authors:
@@ -2091,10 +1897,8 @@
   publisher: Nature methods
   date: '2013-11-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/24185837
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:21074401
   title: Comprehensive identification and quantification of microbial transcriptomes
     by genome-wide unbiased methods.
@@ -2107,10 +1911,8 @@
   publisher: Current opinion in biotechnology
   date: '2010-11-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/21074401
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:20360741
   title: The genome of a songbird.
   authors:
@@ -2199,10 +2001,8 @@
   publisher: Nature
   date: '2010-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20360741
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:20150413
   title: Prediction of alternative isoforms from exon expression levels in RNA-Seq
     experiments.
@@ -2222,10 +2022,8 @@
   publisher: Nucleic acids research
   date: '2010-02-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20150413
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:20535404
   title: 'Erratum to: Mutation screening in 86 known X-linked mental retardation genes
     by droplet-based multiplex PCR and massive parallel sequencing.'
@@ -2247,10 +2045,8 @@
   publisher: The HUGO journal
   date: '2010-04-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/20535404
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1007/s11568-010-9137-y
   title: Mutation screening in 86 known X-linked mental retardation genes by droplet-based
     multiplex PCR and massive parallel sequencing
@@ -2272,10 +2068,8 @@
   publisher: The HUGO Journal
   date: '2009-12-01'
   link: https://doi.org/bb4szf
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:18599741
   title: A global view of gene activity and alternative splicing by deep sequencing
     of the human transcriptome.
@@ -2299,10 +2093,8 @@
   publisher: Science (New York, N.Y.)
   date: '2008-07-03'
   link: https://www.ncbi.nlm.nih.gov/pubmed/18599741
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:16882864
   title: Identification of programmed translational -1 frameshifting sites in the
     genome of Saccharomyces cerevisiae.
@@ -2314,10 +2106,8 @@
   publisher: Genome research
   date: '2006-08-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16882864
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:16204194
   title: Identification of programmed translational -1 frameshifting sites in the
     genome of Saccharomyces cerevisiae.
@@ -2329,10 +2119,8 @@
   publisher: Genome research
   date: '2005-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/16204194
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:15774554
   title: 'seq++: analyzing biological sequences with a range of Markov-related models.'
   authors:
@@ -2344,10 +2132,8 @@
   publisher: Bioinformatics (Oxford, England)
   date: '2005-03-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/15774554
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:12824390
   title: 'SIC: A tool to detect short inverted segments in a biological sequence.'
   authors:
@@ -2357,10 +2143,8 @@
   publisher: Nucleic acids research
   date: '2003-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12824390
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:12824392
   title: 'SPA: Simple web tool to assess statistical significance of DNA patterns.'
   authors:
@@ -2369,47 +2153,8 @@
   publisher: Nucleic acids research
   date: '2003-07-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/12824392
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:12614545
-  title: Occurrence probability of structured motifs in random sequences.
-  authors:
-  - S Robin
-  - J-J Daudin
-  - H Richard
-  - M-F Sagot
-  - S Schbath
-  publisher: 'Journal of computational biology : a journal of computational molecular
-    cell biology'
-  date: '2002-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/12614545
-  orcid: 0000-0001-7776-1340
-  member: hugues-richard
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1011379
-  title: 'Refphase: Multi-sample phasing reveals haplotype-specific copy number heterogeneity'
-  authors:
-  - Thomas B. K. Watkins
-  - Emma C. Colliver
-  - Matthew R. Huska
-  - Tom L. Kaufmann
-  - Emilia L. Lim
-  - Cody B. Duncan
-  - Kerstin Haase
-  - Peter Van Loo
-  - Charles Swanton
-  - Nicholas McGranahan
-  - Roland F. Schwarz
-  publisher: PLOS Computational Biology
-  date: '2023-10-23'
-  link: https://doi.org/gtjmkq
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2022.10.13.511885
   title: 'Refphase: Multi-sample reference phasing reveals haplotype-specific copy
     number heterogeneity'
@@ -2427,46 +2172,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-10-17'
   link: https://doi.org/gtjmkr
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41467-021-26870-z
-  title: Spatial and temporal intratumour heterogeneity has potential consequences
-    for single biopsy-based neuroblastoma treatment decisions
-  authors:
-  - Karin Schmelz
-  - Joern Toedling
-  - Matt Huska
-  - Maja C. Cwikla
-  - Louisa-Marie Kruetzfeldt
-  - Jutta Proba
-  - Peter F. Ambros
-  - Inge M. Ambros
-  - "Seng\xFCl Boral"
-  - Marco Lodrini
-  - Celine Y. Chen
-  - Martin Burkert
-  - Dennis Guergen
-  - Annabell Szymansky
-  - Kathy Astrahantseff
-  - Annette Kuenkele
-  - Kerstin Haase
-  - Matthias Fischer
-  - Hedwig E. Deubzer
-  - Falk Hertwig
-  - Patrick Hundsdoerfer
-  - Anton G. Henssen
-  - Roland F. Schwarz
-  - Johannes H. Schulte
-  - Angelika Eggert
-  publisher: Nature Communications
-  date: '2021-11-23'
-  link: https://doi.org/gnr76p
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:30472115
   title: The Anti-amyloid Compound DO1 Decreases Plaque Pathology and Neuroinflammation-Related
     Expression Changes in 5xFAD Transgenic Mice.
@@ -2497,10 +2204,8 @@
   publisher: Cell chemical biology
   date: '2018-11-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30472115
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:27984582
   title: Improved Prediction of Non-methylated Islands in Vertebrates Highlights Different
     Characteristic Sequence Patterns.
@@ -2510,10 +2215,8 @@
   publisher: PLoS computational biology
   date: '2016-12-16'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27984582
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:27903902
   title: Role of the chromatin landscape and sequence in determining cell type-specific
     genomic glucocorticoid receptor binding and gene regulation.
@@ -2532,10 +2235,8 @@
   publisher: Nucleic acids research
   date: '2017-02-28'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27903902
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.7287/peerj.preprints.2407v1
   title: Predicting enhancers using a small subset of high confidence examples and
     co-training
@@ -2547,10 +2248,8 @@
   publisher: PeerJ
   date: '2016-09-01'
   link: https://doi.org/gtjmkt
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/onc.2015.451
   title: SPON2, a newly identified target gene of MACC1, drives colorectal cancer
     metastasis in mice and is prognostic for colorectal cancer patient survival
@@ -2570,10 +2269,8 @@
   publisher: Oncogene
   date: '2015-12-21'
   link: https://doi.org/f9cf8b
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/1471-2407-14-64
   title: Concerted down-regulation of immune-system related genes predicts metastasis
     in colorectal carcinoma
@@ -2586,10 +2283,8 @@
   publisher: BMC Cancer
   date: '2014-02-05'
   link: https://doi.org/f5rfkk
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/gb-2013-14-8-r84
   title: 'PROmiRNA: a new miRNA promoter recognition method uncovers the complex regulation
     of intronic miRNAs'
@@ -2605,10 +2300,8 @@
   publisher: Genome Biology
   date: '2013-08-16'
   link: https://doi.org/gtjmkw
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/ki.2010.169
   title: The soluble intracellular domain of megalin does not affect renal proximal
     tubular function in vivo
@@ -2626,10 +2319,8 @@
   publisher: Kidney International
   date: '2010-09-01'
   link: https://doi.org/fhqfbd
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/ng.463
   title: DNA methylation protects hematopoietic stem cell multipotency from myeloerythroid
     restriction
@@ -2652,10 +2343,8 @@
   publisher: Nature Genetics
   date: '2009-10-04'
   link: https://doi.org/b6f577
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/nar/gkp353
   title: 'MedlineRanker: flexible ranking of biomedical literature'
   authors:
@@ -2668,10 +2357,8 @@
   publisher: Nucleic Acids Research
   date: '2009-05-07'
   link: https://doi.org/cjchb9
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1371/journal.pcbi.1000304
   title: Detection of Alpha-Rod Protein Repeats Using a Neural Network and Application
     to Huntingtin
@@ -2690,10 +2377,8 @@
   publisher: PLoS Computational Biology
   date: '2009-03-13'
   link: https://doi.org/cm432f
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1186/1756-0500-2-39
   title: 'Recent developments in StemBase: a tool to study gene expression in human
     and murine stem cells'
@@ -2709,10 +2394,8 @@
   publisher: BMC Research Notes
   date: '2009-01-01'
   link: https://doi.org/cq4xx6
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/bioinformatics/btm489
   title: 'BiasViz: visualization of amino acid biased regions in protein alignments'
   authors:
@@ -2722,10 +2405,8 @@
   publisher: Bioinformatics
   date: '2007-10-06'
   link: https://doi.org/cvzprz
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.febslet.2005.02.020
   title: Study of stem cell function using microarray experiments
   authors:
@@ -2744,10 +2425,8 @@
   publisher: FEBS Letters
   date: '2005-02-23'
   link: https://doi.org/dhx7wj
-  orcid: 0000-0002-0912-745X
-  member: matt-huska
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2024.09.09.612008
   title: Antibiotic resistance detection and concomitant species identification of
     ESKAPE pathogens by proteomics
@@ -2763,10 +2442,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2024-09-09'
   link: https://doi.org/g8sd37
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/microorganisms11112677
   title: Plant-Associated Representatives of the Bacillus cereus Group Are a Rich
     Source of Antimicrobial Compounds
@@ -2787,10 +2464,8 @@
   publisher: Microorganisms
   date: '2023-10-31'
   link: https://doi.org/g8sd38
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1021/acs.jproteome.3c00078
   title: Increasing Proteome Depth While Maintaining Quantitative Precision in Short-Gradient
     Data-Independent Acquisition Proteomics
@@ -2802,10 +2477,8 @@
   publisher: Journal of Proteome Research
   date: '2023-04-18'
   link: https://doi.org/g8sd39
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/2022.09.12.507556
   title: Increasing proteome depth while maintaining quantitative precision in short
     gradient data-independent acquisition proteomics
@@ -2817,10 +2490,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-09-13'
   link: https://doi.org/g8sd4b
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1016/j.dib.2022.107978
   title: Genome sequence data of Bacillus velezensis BP1.2A and BT2.4
   authors:
@@ -2834,10 +2505,8 @@
   publisher: Data in Brief
   date: '2022-04-01'
   link: https://doi.org/g8sd4c
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1021/acs.analchem.1c00594
   title: Unbiased Antimicrobial Resistance Detection from Clinical Bacterial Isolates
     Using Proteomics
@@ -2852,10 +2521,8 @@
   publisher: Analytical Chemistry
   date: '2021-10-26'
   link: https://doi.org/g8sd4d
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1128/mra.01154-20
   title: Draft Genome Sequences of 59 Endospore-Forming Gram-Positive Bacteria Associated
     with Crop Plants Grown in Vietnam
@@ -2873,10 +2540,8 @@
   publisher: Microbiology Resource Announcements
   date: '2020-11-19'
   link: https://doi.org/g8sd4f
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1074/mcp.tir120.002061
   title: Identification of Microorganisms by Liquid Chromatography-Mass Spectrometry
     (LC-MS1) and in Silico Peptide Mass Libraries
@@ -2888,10 +2553,8 @@
   publisher: Molecular &amp; Cellular Proteomics
   date: '2020-12-01'
   link: https://doi.org/g8sd4g
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1021/acs.analchem.0c00994
   title: Isolation Window Optimization of Data-Independent Acquisition Using Predicted
     Libraries for Deep and Accurate Proteome Profiling
@@ -2903,10 +2566,8 @@
   publisher: Analytical Chemistry
   date: '2020-08-25'
   link: https://doi.org/g8sd4h
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1002/2211-5463.12787
   title: "The N\u2010terminal domains of the paralogous HycE and Nuo<scp>CD</scp>\
     \ govern assembly of the respective formate hydrogenlyase and <scp>NADH</scp>\
@@ -2921,10 +2582,8 @@
   publisher: FEBS Open Bio
   date: '2020-02-04'
   link: https://doi.org/g8sd4k
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:dx.doi.org/10.17504/protocols.io.nc2daye
   title: Low input long-read DNA isolation for Nanopore sequencing v1
   authors:
@@ -2934,10 +2593,8 @@
   publisher: ''
   date: '2018-02-20'
   link: https://doi.org/g8sd4m
-  orcid: 0000-0001-8987-2355
-  member: christian-blumenscheit
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1021/acs.jcim.2c00050
   title: 'KiSSim: Predicting Off-Targets from Structural Similarities in the Kinome'
   authors:
@@ -2949,10 +2606,8 @@
   publisher: Journal of Chemical Information and Modeling
   date: '2022-05-10'
   link: https://doi.org/g8t52n
-  orcid: 0000-0002-7249-069X
-  member: eva-assmann
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/molecules26030629
   title: Analyzing Kinase Similarity in Small Molecule and Protein Structural Space
     to Explore the Limits of Multi-Target Screening
@@ -2968,10 +2623,8 @@
   publisher: Molecules
   date: '2021-01-26'
   link: https://doi.org/g8t52p
-  orcid: 0000-0002-7249-069X
-  member: eva-assmann
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/nar/gkad442
   title: "Sequential disruption of SPLASH-identified vRNA\u2013vRNA interactions challenges\
     \ their role in influenza A virus genome packaging"
@@ -2989,10 +2642,8 @@
   publisher: Nucleic Acids Research
   date: '2023-05-24'
   link: https://doi.org/g8vf54
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:36062555
   title: Rotavirus RNA chaperone mediates global transcriptome-wide increase in RNA
     backbone flexibility.
@@ -3006,10 +2657,8 @@
   publisher: Nucleic acids research
   date: '2022-09-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36062555
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/nargab/lqz006
   title: A comprehensive annotation and differential expression analysis of short
     and long non-coding RNAs in 16 bat genomes
@@ -3028,10 +2677,8 @@
   publisher: NAR Genomics and Bioinformatics
   date: '2019-09-30'
   link: https://doi.org/gsxrhc
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/738526
   title: A comprehensive annotation and differential expression analysis of short
     and long non-coding RNAs in 16 bat genomes
@@ -3050,10 +2697,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-08-19'
   link: https://doi.org/gkxbt8
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1101/424002
   title: 'SilentMutations (SIM): a tool for analyzing long-range RNA-RNA interactions
     in viral genomes and structured RNAs'
@@ -3065,10 +2710,8 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2018-09-23'
   link: https://doi.org/gkwcvr
-  orcid: 0000-0003-3928-9094
-  member: daniel-desiro
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1038/s41586-024-08477-8
   title: SARS-CoV-2 evolution on a dynamic immune landscape
   authors:
@@ -3089,10 +2732,8 @@
   publisher: Nature
   date: '2025-01-29'
   link: https://doi.org/g9tv7r
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v16091444
   title: 'CIEVaD: A Lightweight Workflow Collection for the Rapid and On-Demand Deployment
     of End-to-End Testing for Genomic Variant Detection'
@@ -3104,10 +2745,8 @@
   publisher: Viruses
   date: '2024-09-11'
   link: https://doi.org/g9tv7t
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001963
   title: 'ICTV Virus Taxonomy Profile: Kolmioviridae 2024'
   authors:
@@ -3126,10 +2765,8 @@
   publisher: Journal of General Virology
   date: '2024-02-29'
   link: https://doi.org/g9tv7v
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1080/22221751.2023.2245916
   title: "Neighbourhood watch: genomic epidemiology of SARS-CoV-2 variants circulating\
     \ in a German federal state, Mecklenburg-Western Pomerania, in 2020\u20132022"
@@ -3155,10 +2792,8 @@
   publisher: Emerging Microbes &amp; Infections
   date: '2023-08-22'
   link: https://doi.org/g9tv7w
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001906
   title: 'ICTV Virus Taxonomy Profile: Xinmoviridae 2023'
   authors:
@@ -3167,10 +2802,8 @@
   publisher: Journal of General Virology
   date: '2023-10-26'
   link: https://doi.org/g9tv7x
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:37622664
   title: Annual (2023) taxonomic update of RNA-directed RNA polymerase-encoding negative-sense
     RNA viruses (realm
@@ -3365,10 +2998,8 @@
   publisher: The Journal of general virology
   date: '2023-08-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37622664
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001869
   title: 'ICTV Virus Taxonomy Profile: Lispiviridae 2023'
   authors:
@@ -3379,10 +3010,8 @@
   publisher: Journal of General Virology
   date: '2023-07-11'
   link: https://doi.org/g9tv7z
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/cid/ciac399
   title: Advancing Precision Vaccinology by Molecular and Genomic Surveillance of
     Severe Acute Respiratory Syndrome Coronavirus 2 in Germany, 2021
@@ -3438,10 +3067,8 @@
   publisher: Clinical Infectious Diseases
   date: '2022-06-25'
   link: https://doi.org/g668hj
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v14071522
   title: Women in the European Virus Bioinformatics Center
   authors:
@@ -3476,10 +3103,8 @@
   publisher: Viruses
   date: '2022-07-12'
   link: https://doi.org/gqkdn2
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.25646/10118
   title: "Synopse virologischer Analysen im Nationalen Referenzzentrum f\xFCr Influenzaviren\
     \ w\xE4hrend der COVID-19-Pandemie"
@@ -3515,10 +3140,8 @@
   publisher: Robert Koch-Institut
   date: '2022-06-02'
   link: https://doi.org/g9tv72
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001734
   title: "History and classification of Aigai virus (formerly Crimean\u2013Congo haemorrhagic\
     \ fever virus genotype VI)"
@@ -3547,10 +3170,8 @@
   publisher: Journal of General Virology
   date: '2022-04-12'
   link: https://doi.org/g9tv73
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.21203/rs.3.rs-1502293/v1
   title: Rapid characterization of a Delta-Omicron SARS-CoV-2 recombinant detected
     in Europe
@@ -3611,10 +3232,8 @@
   publisher: Springer Science and Business Media LLC
   date: '2022-04-04'
   link: https://doi.org/g9tv74
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1128/aem.01954-21
   title: "<i>Jingchuvirales</i>\n            : a New Taxonomical Framework for a Rapidly\
     \ Expanding Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod\
@@ -3630,10 +3249,8 @@
   publisher: Applied and Environmental Microbiology
   date: '2022-03-22'
   link: https://doi.org/gqmnkh
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001681
   title: 'ICTV Virus Taxonomy Profile: Nyamiviridae 2021'
   authors:
@@ -3648,10 +3265,8 @@
   publisher: Journal of General Virology
   date: '2021-11-05'
   link: https://doi.org/g9tv75
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: pmid:34463877
   title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae),
     including the large orders Bunyavirales and Mononegavirales.'
@@ -3910,10 +3525,8 @@
   publisher: Archives of virology
   date: '2021-12-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/34463877
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1093/ve/veab030
   title: Viromics of extant insect orders unveil the evolution of the flavi-like superfamily
   authors:
@@ -3930,10 +3543,8 @@
   publisher: Virus Evolution
   date: '2021-01-01'
   link: https://doi.org/gqvz25
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.13140/RG.2.2.31235.43041
   title: Create one new realm (Ribozyviria) including one new family (Kolmioviridae)
     including genus Deltavirus and seven new genera for a total of 15 species
@@ -3950,10 +3561,8 @@
   publisher: Unpublished
   date: '2021-01-01'
   link: https://doi.org/g9tv76
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/v12121398
   title: The International Virus Bioinformatics Meeting 2020
   authors:
@@ -3979,10 +3588,8 @@
   publisher: Viruses
   date: '2020-12-06'
   link: https://doi.org/gk7pv8
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1073/pnas.2006750117
   title: "Mammalian deltavirus without hepadnavirus coinfection in the neotropical\
     \ rodent\n            <i>Proechimys semispinosus</i>"
@@ -4008,10 +3615,8 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2020-07-10'
   link: https://doi.org/g9tv77
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1371/journal.ppat.1008224
   title: Re-assessing the diversity of negative strand RNA viruses in insects
   authors:
@@ -4031,10 +3636,8 @@
   publisher: PLOS Pathogens
   date: '2019-12-12'
   link: https://doi.org/gpm9zc
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001260
   title: Diverse novel phleboviruses in sandflies from the Panama Canal area, Central
     Panama
@@ -4048,7 +3651,5 @@
   publisher: Journal of General Virology
   date: '2019-06-01'
   link: https://doi.org/g9tv78
-  orcid: 0000-0003-2608-2596
-  member: sofiap
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources-manual.yaml
