@@ -1,3 +1,7 @@
+# This file is no longer used to automatically add citations. We automatically
+# hopefully use it in the future to *suggest* new citations, but they would 
+# need to be manually approved or rejected before being added to the site 
+# (not implemented yet)
 - orcid: 0000-0001-7090-8717
   member: martin-hoelzer
 - orcid: 0000-0001-7776-1340
