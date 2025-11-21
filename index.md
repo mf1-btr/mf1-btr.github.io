@@ -17,7 +17,7 @@ We are one team of the [Genome Competence Center (MF1)](https://www.rki.de/EN/In
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -29,8 +29,8 @@ We are one team of the [Genome Competence Center (MF1)](https://www.rki.de/EN/In
 {%
   include feature.html
   image="images/our-research.png"
-  link="research"
-  title="Our Research"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
