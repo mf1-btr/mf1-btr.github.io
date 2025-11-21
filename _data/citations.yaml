@@ -1,5 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1371/journal.pcbi.1011422
+  title: 'VIRify: An integrated detection, annotation and taxonomic classification
+    pipeline using virus-specific protein profile hidden Markov models'
+  authors:
+  - Guillermo Rangel-Pineros
+  - Alexandre Almeida
+  - Martin Beracochea
+  - Ekaterina Sakharova
+  - Manja Marz
+  - "Alejandro Reyes Mu\xF1oz"
+  - "Martin H\xF6lzer"
+  - Robert D. Finn
+  publisher: PLOS Computational Biology
+  date: '2023-08-28'
+  link: https://doi.org/gs7gvv
+  image: images/research/virify.png
+  repo: EBI-Metagenomics/emg-viral-pipeline
+  group: highlighted
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1101/2023.06.02.543047
+  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
+    wastewater sequencing data
+  authors:
+  - "Eva A\xDFmann"
+  - Shelesh Agrawal
+  - Laura Orschler
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-02'
+  link: https://doi.org/gtjmjf
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
+  group: highlighted
+  plugin: sources.py
+  file: sources-manual.yaml
 - id: doi:10.3390/immuno5030027
   title: Next-Generation Sequencing Analysis in Greek Patients with Predominantly
     Antibody Deficiencies
@@ -307,26 +344,6 @@
   link: https://doi.org/gtjmjc
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.1371/journal.pcbi.1011422
-  title: 'VIRify: An integrated detection, annotation and taxonomic classification
-    pipeline using virus-specific protein profile hidden Markov models'
-  authors:
-  - Guillermo Rangel-Pineros
-  - Alexandre Almeida
-  - Martin Beracochea
-  - Ekaterina Sakharova
-  - Manja Marz
-  - "Alejandro Reyes Mu\xF1oz"
-  - "Martin H\xF6lzer"
-  - Robert D. Finn
-  publisher: PLOS Computational Biology
-  date: '2023-08-28'
-  link: https://doi.org/gs7gvv
-  plugin: sources.py
-  file: sources-highlighted.yaml
-  image: images/research/virify.png
-  repo: EBI-Metagenomics/emg-viral-pipeline
-  group: highlighted
 - id: doi:10.1101/2023.08.05.552089
   title: Targeted decontamination of sequencing data with CLEAN
   authors:
@@ -343,23 +360,6 @@
   link: https://doi.org/gtjmjd
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.1101/2023.06.02.543047
-  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
-    wastewater sequencing data
-  authors:
-  - "Eva A\xDFmann"
-  - Shelesh Agrawal
-  - Laura Orschler
-  - "Sindy B\xF6ttcher"
-  - Susanne Lackner
-  - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-06-02'
-  link: https://doi.org/gtjmjf
-  plugin: sources.py
-  file: sources-highlighted.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
-  group: highlighted
 - id: doi:10.1101/2023.05.05.539552
   title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
     bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
