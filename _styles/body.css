@@ -11,4 +11,8 @@ body {
   line-height: var(--compact);
 }
 
+body p {
+  font-size: var(--large);
+}
+
 /*# sourceMappingURL=body.css.map */
