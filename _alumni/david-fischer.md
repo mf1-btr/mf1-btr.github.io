@@ -11,6 +11,7 @@ links:
   orcid: 0009-0002-1313-7439
   github: fischer-hub
   linkedin: David Fischer
+date_end: 2025-10-01
 ---
 
 

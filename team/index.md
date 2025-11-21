@@ -14,7 +14,7 @@ We work closely with the other teams at the [Genome Competence Center](https://w
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'team-lead'" %}
-{% include list.html data="members" component="portrait" filter="role != 'team-lead' and role != 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="role != 'team-lead'" %}
 
 {% include section.html %}
 
@@ -32,4 +32,4 @@ We frequently welcome and host guest scientists in our team.
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+{% include list-alumni.html data="alumni" component="portrait-alumni" %}
