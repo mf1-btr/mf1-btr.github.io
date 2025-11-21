@@ -8,6 +8,7 @@ links:
   orcid: 0009-0009-7070-1359
   github: StefanFrankBio
   twitter: StefanFrankBio
+date_end: 2025-09-01
 ---
 
 I'm Stefan, a Ph.D. student with the MF1 Bioinformatics and Translational Research team at the Robert Koch Institute. I graduated from Technische Universität Braunschweig in 2021 with a M.S. in Biology. Before joining RKI, I worked in quality control for Octapharma, established the virtual reality project 'Tasthirn' at TU Braunschweig's Institute for Cell Physiology and contributed to metabolomics research combating Parkinson's disease at TU Braunschweig's Institute for Bioinformatics and Biochemistry.

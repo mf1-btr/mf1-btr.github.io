@@ -8,6 +8,7 @@ aliases:
   - Christian Blumenscheit
 links:
   orcid: 0000-0001-8987-2355
+date_end: 2024-12-01
 ---
 
 I am a microbiologist with a strong interest in data analysis and have taught myself bioinformatics. Today I regularly work with tools such as R and Python and develop workflows for processing and analysing NGS and MS data. My aim is to accurately evaluate complex data and present results in a way that is understandable to scientific and clinical partners.

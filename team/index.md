@@ -32,4 +32,4 @@ We frequently welcome and host guest scientists in our team.
 
 ## Alumni
 
-{% include list.html data="alumni" component="portrait" %}
+{% include list-alumni.html data="alumni" component="portrait-alumni" %}
