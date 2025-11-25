@@ -56,8 +56,10 @@
 - id: doi:10.1038/s41586-024-08477-8
 - id: doi:10.3390/v16091444
 - id: doi:10.1099/jgv.0.001963
+  title: 'ICTV Virus Taxonomy Profile: <i>Kolmioviridae</i> 2024'
 - id: doi:10.1080/22221751.2023.2245916
 - id: doi:10.1099/jgv.0.001906
+  title: 'ICTV Virus Taxonomy Profile: <i>Xinmoviridae</i> 2023'
 - id: pmid:37622664
 - id: doi:10.1099/jgv.0.001869
   title: 'ICTV Virus Taxonomy Profile: <i>Lispiviridae</i> 2023'
@@ -66,10 +68,11 @@
 - id: doi:10.25646/10118
 - id: doi:10.1099/jgv.0.001734
 - id: doi:10.21203/rs.3.rs-1502293/v1
+  publisher: Research Square
 - id: doi:10.1128/aem.01954-21
   title: "<i>Jingchuvirales</i>: a New Taxonomical Framework for a Rapidly Expanding Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod Subphyla"
 - id: doi:10.1099/jgv.0.001681
   title: 'ICTV Virus Taxonomy Profile: <i>Nyamiviridae</i> 2021'
 - id: pmid:34463877
-  title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae), including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
+  title: '2021 Taxonomic update of phylum <i>Negarnaviricota</i> (<i>Riboviria</i>: <i>Orthornavirae</i>), including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
 - id: doi:10.3390/v12121398
