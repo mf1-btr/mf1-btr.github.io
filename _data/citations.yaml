@@ -280,8 +280,8 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1101/2023.04.13.536562
-  title: <i>De novo</i>genome assembly resolving repetitive structures enables genomic
-    analysis of 35 European<i>Mycoplasma bovis</i>strains
+  title: <i>De novo</i> genome assembly resolving repetitive structures enables genomic
+    analysis of 35 European <i>Mycoplasma bovis</i> strains
   authors:
   - Sandra Triebel
   - Konrad Sachse
@@ -1230,7 +1230,7 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001869
-  title: 'ICTV Virus Taxonomy Profile: Lispiviridae 2023'
+  title: 'ICTV Virus Taxonomy Profile: <i>Lispiviridae</i> 2023'
   authors:
   - Jun-Min Li
   - Fei Wang
@@ -1464,9 +1464,8 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1128/aem.01954-21
-  title: "<i>Jingchuvirales</i>\n            : a New Taxonomical Framework for a Rapidly\
-    \ Expanding Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod\
-    \ Subphyla"
+  title: '<i>Jingchuvirales</i>: a New Taxonomical Framework for a Rapidly Expanding
+    Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod Subphyla'
   authors:
   - Nicholas Di Paola
   - Nolwenn M. Dheilly
@@ -1481,7 +1480,7 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001681
-  title: 'ICTV Virus Taxonomy Profile: Nyamiviridae 2021'
+  title: 'ICTV Virus Taxonomy Profile: <i>Nyamiviridae</i> 2021'
   authors:
   - Ralf G. Dietzgen
   - Andrew E. Firth
@@ -1498,7 +1497,7 @@
   file: sources-manual.yaml
 - id: pmid:34463877
   title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae),
-    including the large orders Bunyavirales and Mononegavirales.'
+    including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
   authors:
   - Jens H Kuhn
   - Scott Adkins
