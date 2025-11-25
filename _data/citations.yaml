@@ -153,21 +153,6 @@
   link: https://doi.org/g88ks8
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.1099/acmi.0.000936.v1
-  title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
-    include multiple truncated CDS of the major outer membrane porin (MOMP), more
-    than 150 unique genes, and an ortholog of the chlamydial plasticity zone'
-  authors:
-  - "Martin H\xF6lzer"
-  - Charlotte Reuschel
-  - Fabien Vorimore
-  - Karine Laroucau
-  - Konrad Sachse
-  publisher: Microbiology Society
-  date: '2024-10-23'
-  link: https://doi.org/g8n7tz
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.3390/v16081210
   title: 'Endogenous Bornavirus-like Elements in Bats: Evolutionary Insights from
     the Conserved Riboviral L-Gene in Microbats and Its Antisense Transcription in
@@ -223,23 +208,6 @@
   link: https://doi.org/gtprn8
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.1101/2024.03.07.583829
-  title: In silico genomic surveillance by CoVerage predicts and characterizes SARS-CoV-2
-    Variants of Interest
-  authors:
-  - Katrina Norwood
-  - Zhi-Luo Deng
-  - Susanne Reimering
-  - Gary Robertson
-  - Mohammad-Hadi Foroughmand-Araabi
-  - Sama Goliaei
-  - Martin Hoelzer
-  - Alice Carolyn McHardy
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-03-08'
-  link: https://doi.org/gtmcs5
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.1093/gigascience/giae051
   title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
     wastewater sequencing data
@@ -292,21 +260,6 @@
   link: https://doi.org/gtjmjb
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.12688/f1000research.136683.1
-  title: 'Lessons learned: overcoming common challenges in reconstructing the SARS-CoV-2
-    genome from short-read sequencing data via CoVpipe2'
-  authors:
-  - Marie Lataretu
-  - Oliver Drechsel
-  - "Ren\xE9 Kmiecinski"
-  - Kathrin Trappe
-  - "Martin H\xF6lzer"
-  - Stephan Fuchs
-  publisher: F1000Research
-  date: '2023-09-01'
-  link: https://doi.org/gtjmjc
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.1371/journal.pcbi.1011422
   title: 'VIRify: An integrated detection, annotation and taxonomic classification
     pipeline using virus-specific protein profile hidden Markov models'
@@ -327,52 +280,6 @@
   image: images/research/virify.png
   repo: EBI-Metagenomics/emg-viral-pipeline
   group: highlighted
-- id: doi:10.1101/2023.08.05.552089
-  title: Targeted decontamination of sequencing data with CLEAN
-  authors:
-  - Marie Lataretu
-  - Sebastian Krautwurst
-  - Matthew R. Huska
-  - Mike Marquet
-  - Adrian Viehweger
-  - Sascha D. Braun
-  - Christian Brandt
-  - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-08-06'
-  link: https://doi.org/gtjmjd
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2023.06.02.543047
-  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
-    wastewater sequencing data
-  authors:
-  - "Eva A\xDFmann"
-  - Shelesh Agrawal
-  - Laura Orschler
-  - "Sindy B\xF6ttcher"
-  - Susanne Lackner
-  - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-06-02'
-  link: https://doi.org/gtjmjf
-  plugin: sources.py
-  file: sources-highlighted.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
-  group: highlighted
-- id: doi:10.1101/2023.05.05.539552
-  title: 'Pangenome calculation beyond the species level using RIBAP: A comprehensive
-    bacterial core genome annotation pipeline based on Roary and pairwise ILPs'
-  authors:
-  - Kevin Lamkiewicz
-  - Lisa-Marie Barf
-  - Konrad Sachse
-  - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-05-07'
-  link: https://doi.org/gtjmjg
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.1101/2023.04.13.536562
   title: <i>De novo</i>genome assembly resolving repetitive structures enables genomic
     analysis of 35 European<i>Mycoplasma bovis</i>strains
@@ -460,23 +367,6 @@
   publisher: Bioinformatics
   date: '2022-07-07'
   link: https://doi.org/gtjmjm
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2022.08.22.504484
-  title: 'VIRify: an integrated detection, annotation and taxonomic classification
-    pipeline using virus-specific protein profile hidden Markov models'
-  authors:
-  - Guillermo Rangel-Pineros
-  - Alexandre Almeida
-  - Martin Beracochea
-  - Ekaterina Sakharova
-  - Manja Marz
-  - "Alejandro Reyes Mu\xF1oz"
-  - "Martin H\xF6lzer"
-  - Robert D. Finn
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-22'
-  link: https://doi.org/grcttn
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.3390/jof8040323
@@ -887,26 +777,6 @@
   link: https://doi.org/gtjmkj
   plugin: sources.py
   file: sources-manual.yaml
-- id: doi:10.1099/mgen.0.000623
-  title: "Mutations in the gdpP gene are a clinically relevant mechanism for \u03B2\
-    -lactam resistance in meticillin-resistant Staphylococcus aureus lacking mec determinants"
-  authors:
-  - Anna Sommer
-  - Stephan Fuchs
-  - Franziska Layer
-  - Christoph Schaudinn
-  - Robert E. Weber
-  - Hugues Richard
-  - Mareike B. Erdmann
-  - Michael Laue
-  - Christopher F. Schuster
-  - Guido Werner
-  - Birgit Strommenger
-  publisher: Microbial Genomics
-  date: '2021-09-09'
-  link: https://doi.org/gmqkwx
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.1101/gr.274696.120
   title: Assessing conservation of alternative splicing with evolutionary splicing
     graphs
@@ -1068,261 +938,6 @@
   publisher: Journal of Molecular Biology
   date: '2020-03-01'
   link: https://doi.org/gwxh
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:29890948
-  title: 'DiNAMO: highly sensitive DNA motif discovery in high-throughput sequencing
-    data.'
-  authors:
-  - Chadi Saad
-  - "Laurent No\xE9"
-  - Hugues Richard
-  - Julie Leclerc
-  - Marie-Pierre Buisine
-  - "H\xE9l\xE8ne Touzet"
-  - Martin Figeac
-  publisher: BMC bioinformatics
-  date: '2018-06-11'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29890948
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:29543809
-  title: 'Meet-U: Educating through research immersion.'
-  authors:
-  - Nika Abdollahi
-  - Alexandre Albani
-  - Eric Anthony
-  - Agnes Baud
-  - "M\xE9lissa Cardon"
-  - Robert Clerc
-  - Dariusz Czernecki
-  - Romain Conte
-  - Laurent David
-  - Agathe Delaune
-  - Samia Djerroud
-  - Pauline Fourgoux
-  - "Nad\xE8ge Guiglielmoni"
-  - Jeanne Laurentie
-  - Nathalie Lehmann
-  - Camille Lochard
-  - "R\xE9mi Montagne"
-  - Vasiliki Myrodia
-  - Vaitea Opuu
-  - Elise Parey
-  - "L\xE9lia Polit"
-  - "Sylvain Priv\xE9"
-  - "Chlo\xE9 Quignot"
-  - Maria Ruiz-Cuevas
-  - Mariam Sissoko
-  - Nicolas Sompairac
-  - Audrey Vallerix
-  - Violaine Verrecchia
-  - Marc Delarue
-  - "Raphael Gu\xE9rois"
-  - Yann Ponty
-  - Sophie Sacquin-Mora
-  - Alessandra Carbone
-  - Christine Froidevaux
-  - "St\xE9phane Le Crom"
-  - Olivier Lespinet
-  - Martin Weigt
-  - Samer Abboud
-  - Juliana Bernardes
-  - Guillaume Bouvier
-  - "Chlo\xE9 Dequeker"
-  - "Arnaud Ferr\xE9"
-  - Patrick Fuchs
-  - "Ga\xEBlle Lelandais"
-  - Pierre Poulain
-  - Hugues Richard
-  - Hugo Schweke
-  - Elodie Laine
-  - Anne Lopes
-  publisher: PLoS computational biology
-  date: '2018-03-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29543809
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:29182778
-  title: Jointly aligning a group of DNA reads improves accuracy of identifying large
-    deletions.
-  authors:
-  - Anish M S Shrestha
-  - Martin C Frith
-  - Kiyoshi Asai
-  - Hugues Richard
-  publisher: Nucleic acids research
-  date: '2018-02-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/29182778
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:27255532
-  title: The Metagenomics and Metadesign of the Subways and Urban Biomes (MetaSUB)
-    International Consortium inaugural meeting report.
-  authors: []
-  publisher: Microbiome
-  date: '2016-06-03'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/27255532
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2024.09.09.612008
-  title: Antibiotic resistance detection and concomitant species identification of
-    ESKAPE pathogens by proteomics
-  authors:
-  - Christian Blumenscheit
-  - Yvonne Pfeifer
-  - Guido Werner
-  - Charlyn John
-  - Franziska Layer-Nicolaou
-  - Andy Schneider
-  - Peter Lasch
-  - Joerg Doellinger
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-09-09'
-  link: https://doi.org/g8sd37
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.3390/microorganisms11112677
-  title: Plant-Associated Representatives of the Bacillus cereus Group Are a Rich
-    Source of Antimicrobial Compounds
-  authors:
-  - Joachim Vater
-  - Le Thi Thanh Tam
-  - "Jennifer J\xE4hne"
-  - Stefanie Herfort
-  - Christian Blumenscheit
-  - Andy Schneider
-  - Pham Thi Luong
-  - Le Thi Phuong Thao
-  - Jochen Blom
-  - Silke R. Klee
-  - Thomas Schweder
-  - Peter Lasch
-  - Rainer Borriss
-  publisher: Microorganisms
-  date: '2023-10-31'
-  link: https://doi.org/g8sd38
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1021/acs.jproteome.3c00078
-  title: Increasing Proteome Depth While Maintaining Quantitative Precision in Short-Gradient
-    Data-Independent Acquisition Proteomics
-  authors:
-  - Joerg Doellinger
-  - Christian Blumenscheit
-  - Andy Schneider
-  - Peter Lasch
-  publisher: Journal of Proteome Research
-  date: '2023-04-18'
-  link: https://doi.org/g8sd39
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2022.09.12.507556
-  title: Increasing proteome depth while maintaining quantitative precision in short
-    gradient data-independent acquisition proteomics
-  authors:
-  - Joerg Doellinger
-  - Christian Blumenscheit
-  - Andy Schneider
-  - Peter Lasch
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-09-13'
-  link: https://doi.org/g8sd4b
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1016/j.dib.2022.107978
-  title: Genome sequence data of Bacillus velezensis BP1.2A and BT2.4
-  authors:
-  - Christian Blumenscheit
-  - "Jennifer J\xE4hne"
-  - Andy Schneider
-  - Jochen Blom
-  - Thomas Schweder
-  - Peter Lasch
-  - Rainer Borriss
-  publisher: Data in Brief
-  date: '2022-04-01'
-  link: https://doi.org/g8sd4c
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1021/acs.analchem.1c00594
-  title: Unbiased Antimicrobial Resistance Detection from Clinical Bacterial Isolates
-    Using Proteomics
-  authors:
-  - Christian Blumenscheit
-  - Yvonne Pfeifer
-  - Guido Werner
-  - Charlyn John
-  - Andy Schneider
-  - Peter Lasch
-  - Joerg Doellinger
-  publisher: Analytical Chemistry
-  date: '2021-10-26'
-  link: https://doi.org/g8sd4d
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1021/acs.jcim.2c00050
-  title: 'KiSSim: Predicting Off-Targets from Structural Similarities in the Kinome'
-  authors:
-  - Dominique Sydow
-  - "Eva A\xDFmann"
-  - Albert J. Kooistra
-  - Friedrich Rippmann
-  - Andrea Volkamer
-  publisher: Journal of Chemical Information and Modeling
-  date: '2022-05-10'
-  link: https://doi.org/g8t52n
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.3390/molecules26030629
-  title: Analyzing Kinase Similarity in Small Molecule and Protein Structural Space
-    to Explore the Limits of Multi-Target Screening
-  authors:
-  - Denis Schmidt
-  - Magdalena M. Scharf
-  - Dominique Sydow
-  - "Eva A\xDFmann"
-  - "Maria Mart\xED-Solano"
-  - Marina Keul
-  - Andrea Volkamer
-  - Peter Kolb
-  publisher: Molecules
-  date: '2021-01-26'
-  link: https://doi.org/g8t52p
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1093/nar/gkad442
-  title: "Sequential disruption of SPLASH-identified vRNA\u2013vRNA interactions challenges\
-    \ their role in influenza A virus genome packaging"
-  authors:
-  - Celia Jakob
-  - Gabriel L Lovate
-  - "Daniel Desir\xF2"
-  - "Lara Gie\xDFler"
-  - "Redmond\_P Smyth"
-  - Roland Marquet
-  - Kevin Lamkiewicz
-  - Manja Marz
-  - Martin Schwemmle
-  - Hardin Bolte
-  publisher: Nucleic Acids Research
-  date: '2023-05-24'
-  link: https://doi.org/g8vf54
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: pmid:36062555
-  title: Rotavirus RNA chaperone mediates global transcriptome-wide increase in RNA
-    backbone flexibility.
-  authors:
-  - Aaztli Coria
-  - Anastacia Wienecke
-  - Michael L Knight
-  - "Daniel Desir\xF2"
-  - Alain Laederach
-  - Alexander Borodavka
-  publisher: Nucleic acids research
-  date: '2022-09-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36062555
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1038/s41586-024-08477-8
@@ -2167,3 +1782,20 @@
   link: https://doi.org/gk7pv8
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1101/2023.06.02.543047
+  title: Impact of reference design on estimating SARS-CoV-2 lineage abundances from
+    wastewater sequencing data
+  authors:
+  - "Eva A\xDFmann"
+  - Shelesh Agrawal
+  - Laura Orschler
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-02'
+  link: https://doi.org/gtjmjf
+  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
+  group: highlighted
+  plugin: sources.py
+  file: sources-highlighted.yaml
