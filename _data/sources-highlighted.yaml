@@ -5,15 +5,14 @@
 #    duplicates when the publications are combined with the orcid ones above,
 #    since citations are supposed to be deduped by DOI (I think)
 
-# Virify
-- id: doi:10.1371/journal.pcbi.1011422
-  image: images/research/virify.png
-  repo: EBI-Metagenomics/emg-viral-pipeline
+# Eva: Augmentation of wastewater-based epidemiology with machine learning...
+- id: doi:10.1038/s44221-025-00444-5
+  image: images/publications/wastewater-machine-learning.png
   group: highlighted
 
-# Wastewater reference bias preprint
-- id: doi:10.1101/2023.06.02.543047
-  image: https://www.biorxiv.org/content/biorxiv/early/2023/06/02/2023.06.02.543047/F1.large.jpg
+# Valentina: Decoding bacterial methylomes in four public health-relevant microbial species...
+- id: doi:10.1101/2025.01.29.635492
+  image: images/publications/decoding-methylomes.jpg
   group: highlighted
 
 # Complex example
