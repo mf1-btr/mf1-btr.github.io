@@ -1,0 +1,23 @@
+{% assign collaborator = include %}
+
+<div class="collaborator-wrapper">
+  <a
+    href="{{ collaborator.link | uri_escape }}"
+    class="collaborator"
+    data-style="{{ include.style }}"
+    aria-label="{{ collaborator.name | default: "collaborator link" | regex_strip }}"
+  >
+
+    {% if collaborator.name %}
+      <span class="collaborator-name">
+        {{ collaborator.name }}
+      </span>
+    {% endif %}
+
+    {% if collaborator.affiliation %}
+      <span class="collaborator-affiliation">
+        {{ collaborator.affiliation }}
+      </span>
+    {% endif %}
+  </a>
+</div>
