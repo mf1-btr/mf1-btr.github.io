@@ -1,0 +1,77 @@
+---
+---
+
+.collaborator-wrapper {
+}
+
+.collaborator {
+  position: relative;
+  display: inline-flex;
+  justify-content: left;
+  align-items: left;
+  flex-direction: column;
+  margin: 20px;
+  max-width: calc(100% - 20px - 20px);
+  text-decoration: none;
+}
+
+.collaborator[data-style="small"] {
+  width: 100px;
+}
+
+.collaborator[data-style="tiny"] {
+  flex-direction: row;
+  gap: 15px;
+  width: unset;
+  text-align: left;
+}
+
+.collaborator .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: calc(20px + 10%);
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
+}
+
+.collaborator[data-style="small"] .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.collaborator[data-style="tiny"] .icon {
+  display: none;
+}
+
+.collaborator-image {
+  width: 100%;
+  margin-bottom: 20px;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
+.collaborator[data-style="tiny"] .collaborator-image {
+  width: 50px;
+  margin: 0;
+}
+
+.collaborator-name {
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+}
+
+.collaborator[data-style="tiny"] {
+  .collaborator-description,
+  .collaborator-affiliation {
+    display: none;
+  }
+}
