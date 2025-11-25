@@ -977,7 +977,7 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001963
-  title: 'ICTV Virus Taxonomy Profile: Kolmioviridae 2024'
+  title: 'ICTV Virus Taxonomy Profile: <i>Kolmioviridae</i> 2024'
   authors:
   - Jens H. Kuhn
   - Artem Babaian
@@ -1024,7 +1024,7 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1099/jgv.0.001906
-  title: 'ICTV Virus Taxonomy Profile: Xinmoviridae 2023'
+  title: 'ICTV Virus Taxonomy Profile: <i>Xinmoviridae</i> 2023'
   authors:
   - Stephen Sharpe
   - Sofia Paraskevopoulou
@@ -1458,7 +1458,7 @@
   - Xavier de Lamballerie
   - Sylvie van der Werf
   - Axelle Paquin
-  publisher: Springer Science and Business Media LLC
+  publisher: Research Square
   date: '2022-04-04'
   link: https://doi.org/g9tv74
   plugin: sources.py
@@ -1496,8 +1496,8 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: pmid:34463877
-  title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae),
-    including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
+  title: '2021 Taxonomic update of phylum <i>Negarnaviricota</i> (<i>Riboviria</i>:
+    <i>Orthornavirae</i>), including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
   authors:
   - Jens H Kuhn
   - Scott Adkins
