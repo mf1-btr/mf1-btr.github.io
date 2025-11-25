@@ -1,3 +1,8 @@
+# This should only contain DOIs/PMIDs that we want listed on the website.
+#
+# Note that some citations have extra fields. That is for cases where the
+# CrossRef metadata is incorrect (mainly titles with missing italics around
+# virus families.
 - id: doi:10.3390/immuno5030027
 - id: doi:10.1038/s41467-025-60231-4
 - id: doi:10.1093/nargab/lqaf105
@@ -15,6 +20,7 @@
 - id: doi:10.1093/database/baad071
 - id: doi:10.1371/journal.pcbi.1011422
 - id: doi:10.1101/2023.04.13.536562
+  title: <i>De novo</i> genome assembly resolving repetitive structures enables genomic analysis of 35 European <i>Mycoplasma bovis</i> strains
 - id: doi:10.1101/2023.03.29.534691
 - id: doi:10.46471/gigabyte.75
 - id: doi:10.1093/gigascience/giac110
@@ -54,12 +60,16 @@
 - id: doi:10.1099/jgv.0.001906
 - id: pmid:37622664
 - id: doi:10.1099/jgv.0.001869
+  title: 'ICTV Virus Taxonomy Profile: <i>Lispiviridae</i> 2023'
 - id: doi:10.1093/cid/ciac399
 - id: doi:10.3390/v14071522
 - id: doi:10.25646/10118
 - id: doi:10.1099/jgv.0.001734
 - id: doi:10.21203/rs.3.rs-1502293/v1
 - id: doi:10.1128/aem.01954-21
+  title: "<i>Jingchuvirales</i>: a New Taxonomical Framework for a Rapidly Expanding Order of Unusual Monjiviricete Viruses Broadly Distributed among Arthropod Subphyla"
 - id: doi:10.1099/jgv.0.001681
+  title: 'ICTV Virus Taxonomy Profile: <i>Nyamiviridae</i> 2021'
 - id: pmid:34463877
+  title: '2021 Taxonomic update of phylum Negarnaviricota (Riboviria: Orthornavirae), including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
 - id: doi:10.3390/v12121398
