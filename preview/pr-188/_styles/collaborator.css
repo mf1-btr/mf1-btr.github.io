@@ -1,3 +1,7 @@
+.collaborator-wrapper {
+  text-align: left;
+}
+
 .collaborator {
   position: relative;
   display: inline-flex;
