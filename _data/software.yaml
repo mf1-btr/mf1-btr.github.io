@@ -109,7 +109,7 @@
     - Web service
 
 - title: CLEAN
-  image: images/software/clean.png
+  image: images/software/clean.jpeg
   link: https://github.com/rki-mf1/clean
   description: A Nextflow pipeline for decontamination of short reads, long reads and contigs.
   repo: rki-mf1/clean
