@@ -1782,3 +1782,154 @@
   link: https://doi.org/gk7pv8
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1038/s43856-025-01093-1
+  title: A public health perspective of SARS-CoV-2 evolution and surveillance strategies
+    in Germany from 2020 to 2023
+  authors:
+  - Djin-Ye Oh
+  - "Martin H\xF6lzer"
+  - "Daniela B\xF6rnigen"
+  - Sofia Paraskevopoulou
+  - Susanne Duwe
+  - Matthias Budt
+  - Romy Kerber
+  - Agata Mikolajewska
+  - "Sindy B\xF6ttcher"
+  - Janna Seifried
+  - Walter Haas
+  - "Ralf D\xFCrrwald"
+  - Stephan Fuchs
+  - "Stefan Kr\xF6ger"
+  - Max von Kleist
+  - Thorsten Wolff
+  - Martin Mielke
+  - "S\xE9bastien Calvignac-Spencer"
+  - Stephan Fuchs
+  - "Martin H\xF6lzer"
+  - Matthew Huska
+  - Marie Lataretu
+  - Vanda Marujo
+  - Janine Michel
+  - Michaela Niebank
+  - Andreas Nitsche
+  - Sofia Paraskevopoulou
+  - Aleksandar Radonic
+  - Torsten Semmler
+  - Maureen Rebecca Smith
+  - "Andrea Th\xFCrmer"
+  - Wiep van der Toorn
+  - Max von Kleist
+  publisher: Communications Medicine
+  date: '2025-11-11'
+  link: https://doi.org/hbfbgk
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1038/s41597-025-06319-4
+  title: A whole-genome sequencing dataset of nanopore raw signals for bacterial genotyping
+    and methylation analysis
+  authors:
+  - Johanna Dabernig-Heinz
+  - Valentina Galeone
+  - Somayyeh Sedaghatjoo
+  - Ivo Steinmetz
+  - Christian Kohler
+  - "Martin H\xF6lzer"
+  - Gabriel E. Wagner
+  publisher: Scientific Data
+  date: '2025-12-02'
+  link: https://doi.org/hbfbgm
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1186/s12864-025-11793-6
+  title: Accurately assembling nanopore sequencing data of highly pathogenic bacteria
+  authors:
+  - Christine Thomas
+  - Hanka Brangsch
+  - Valentina Galeone
+  - "Martin H\xF6lzer"
+  - Manja Marz
+  - "J\xF6rg Linde"
+  publisher: BMC Genomics
+  date: '2025-08-28'
+  link: https://doi.org/hbfbgn
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.21203/rs.3.rs-7317585/v1
+  title: Large-scale Evaluation of Prokaryotic Annotation Tools Across Thousands of
+    Species
+  authors:
+  - Mateusz Jundzill
+  - "Martin H\xF6lzer"
+  - Serghei Mangul
+  - Mike Marquet
+  - Ralf Ehricht
+  - Mara Lohde
+  - Riccardo Spott
+  - Oliwia Makarewicz
+  - Mathias Pletz
+  - Christian Brandt
+  publisher: Springer Science and Business Media LLC
+  date: '2025-08-13'
+  link: https://doi.org/hbfbgp
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1101/2025.07.26.25332245
+  title: Real-time, multi-pathogen wastewater genomic surveillance with Freyja 2
+  authors:
+  - Joshua I. Levy
+  - Praneeth Gangavarapu
+  - Dylan A. Pilz
+  - Maryam Ahmadi Jesvaghane
+  - Allison Steedman
+  - Mark Zeller
+  - Karthik Gangavarapu
+  - Daniel McDonald
+  - Kevin Libuit
+  - Curtis Kapsak
+  - Erin L. Young
+  - Shelesh Agrawal
+  - Laura Orschler
+  - "Martin H\xF6lzer"
+  - Elyse Stachler
+  - Daniel J. Park
+  - Angie S. Hinrichs
+  - Louise C. Laurent
+  - Rob Knight
+  - Kristian G. Andersen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-27'
+  link: https://doi.org/hbfbgq
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1038/s41467-025-60175-9
+  title: 'varVAMP: degenerate primer design for tiled full genome sequencing and qPCR'
+  authors:
+  - Jonas Fuchs
+  - Johanna Kleine
+  - Mathias Schemmerer
+  - Julian Kreibich
+  - Wolfgang Maier
+  - Namuun Battur
+  - Thomas Krannich
+  - Somayyeh Sedaghatjoo
+  - Lena Jaki
+  - Anastasija Maks
+  - Christina Boehm
+  - Carina Wilhelm
+  - Jessica Schulze
+  - Christin Mache
+  - Elischa Berger
+  - Jessica Panajotov
+  - Lisa Arnold
+  - "Bj\xF6rn Gr\xFCning"
+  - Markus Bauswein
+  - "Sindy B\xF6ttcher"
+  - Reimar Johne
+  - "J\xFCrgen Wenzel"
+  - "Martin H\xF6lzer"
+  - Marcus Panning
+  publisher: Nature Communications
+  date: '2025-05-31'
+  link: https://doi.org/hbfbgr
+  plugin: sources.py
+  file: sources-manual.yaml

@@ -76,3 +76,10 @@
 - id: pmid:34463877
   title: '2021 Taxonomic update of phylum <i>Negarnaviricota</i> (<i>Riboviria</i>: <i>Orthornavirae</i>), including the large orders <i>Bunyavirales</i> and <i>Mononegavirales</i>.'
 - id: doi:10.3390/v12121398
+# GitHub issue #193
+- id: doi:10.1038/s43856-025-01093-1
+- id: doi:10.1038/s41597-025-06319-4
+- id: doi:10.1186/s12864-025-11793-6
+- id: doi:10.21203/rs.3.rs-7317585/v1
+- id: doi:10.1101/2025.07.26.25332245
+- id: doi:10.1038/s41467-025-60175-9
