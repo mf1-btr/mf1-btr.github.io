@@ -1,53 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s44221-025-00444-5
-  title: Augmentation of wastewater-based epidemiology with machine learning to support
-    global health surveillance
-  authors:
-  - "Eva A\xDFmann"
-  - Timo Greiner
-  - Hugues Richard
-  - Matthew Wade
-  - Shelesh Agrawal
-  - Fabian Amman
-  - "Sindy B\xF6ttcher"
-  - Susanne Lackner
-  - Markus Landthaler
-  - Serghei Mangul
-  - Viorel Munteanu
-  - Fotis Psomopoulos
-  - Maureen Smith
-  - Maria Trofimova
-  - Alexander Ullrich
-  - Max von Kleist
-  - Emanuel Wyler
-  - "Martin H\xF6lzer"
-  - Christopher Irrgang
-  publisher: Nature Water
-  date: '2025-06-02'
-  link: https://doi.org/g9pngw
-  image: images/publications/wastewater-machine-learning.png
-  group: highlighted
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2025.01.29.635492
-  title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
-    Nanopore sequencing enables reproducible analysis of DNA modifications'
-  authors:
-  - Valentina Galeone
-  - Johanna Dabernig-Heinz
-  - Mara Lohde
-  - Christian Brandt
-  - Christian Kohler
-  - Gabriel E. Wagner
-  - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-02-02'
-  link: https://doi.org/g84h9m
-  image: images/publications/decoding-methylomes.jpg
-  group: highlighted
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.3390/immuno5030027
   title: Next-Generation Sequencing Analysis in Greek Patients with Predominantly
     Antibody Deficiencies
@@ -140,6 +92,24 @@
   link: https://doi.org/g89hgq
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1101/2025.01.29.635492
+  title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
+    Nanopore sequencing enables reproducible analysis of DNA modifications'
+  authors:
+  - Valentina Galeone
+  - Johanna Dabernig-Heinz
+  - Mara Lohde
+  - Christian Brandt
+  - Christian Kohler
+  - Gabriel E. Wagner
+  - "Martin H\xF6lzer"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-02'
+  link: https://doi.org/g84h9m
+  plugin: sources.py
+  file: sources-highlighted.yaml
+  image: images/publications/decoding-methylomes.jpg
+  group: highlighted
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -678,6 +648,36 @@
   link: https://doi.org/g9z329
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1038/s44221-025-00444-5
+  title: Augmentation of wastewater-based epidemiology with machine learning to support
+    global health surveillance
+  authors:
+  - "Eva A\xDFmann"
+  - Timo Greiner
+  - Hugues Richard
+  - Matthew Wade
+  - Shelesh Agrawal
+  - Fabian Amman
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - Markus Landthaler
+  - Serghei Mangul
+  - Viorel Munteanu
+  - Fotis Psomopoulos
+  - Maureen Smith
+  - Maria Trofimova
+  - Alexander Ullrich
+  - Max von Kleist
+  - Emanuel Wyler
+  - "Martin H\xF6lzer"
+  - Christopher Irrgang
+  publisher: Nature Water
+  date: '2025-06-02'
+  link: https://doi.org/g9pngw
+  plugin: sources.py
+  file: sources-highlighted.yaml
+  image: images/publications/wastewater-machine-learning.png
+  group: highlighted
 - id: doi:10.1681/ASN.0000000503
   title: "Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease\u2013\
     MUC1 27dupC Pathogenic Variant through Exome Sequencing"
