@@ -3,6 +3,7 @@ name: Sofia Paraskevopoulou
 member: sofiap
 image: images/members/sofia-paraskevopoulou.jpg
 role: senior-scientist
+description: Senior Scientist/Project PI
 aliases:
   - Sofia Paraskevopoulou
 links:
