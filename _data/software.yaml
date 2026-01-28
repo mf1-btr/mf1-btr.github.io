@@ -6,7 +6,7 @@
   repo: rki-mf1/viruswarn-doc
   tags:
     - SARS-CoV-2
-    - influenza
+    - Influenza
     - Nextflow
 
 - title: Breakfast
@@ -27,6 +27,17 @@
 #   repo: greenelab/lab-website-template
 #   tags:
 #     - resource
+
+- title: ont-methylation
+  image: images/software/ont-methylation.png
+  link: https://github.com/rki-mf1/ont-methylation
+  description: A Nextflow pipeline that detects bacterial DNA methylation from Nanopore reads and outputs high-confidence methylation sites and motifs.
+  repo: rki-mf1/ont-methylation
+  tags:
+    - Nextflow
+    - Pipeline
+    - Nanopore
+    - Methylation
 
 - title: poreCoV
   image: images/software/porecov.jpeg
