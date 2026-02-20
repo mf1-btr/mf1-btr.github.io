@@ -103,7 +103,7 @@
   - Christian Kohler
   - Gabriel E. Wagner
   - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-02-02'
   link: https://doi.org/g84h9m
   plugin: sources.py
@@ -242,7 +242,7 @@
   - Milena Zarkovic
   - Damian Wollny
   - Manja Marz
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-12-07'
   link: https://doi.org/g83t2q
   plugin: sources.py
@@ -291,7 +291,7 @@
   - "Martin H\xF6lzer"
   - Christiane Schnee
   - Manja Marz
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-04-13'
   link: https://doi.org/gtjmjh
   plugin: sources.py
@@ -305,7 +305,7 @@
   - "Martin H\xF6lzer"
   - Redmond Smyth
   - Max von Kleist
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-03-30'
   link: https://doi.org/gtjmjj
   plugin: sources.py
@@ -466,9 +466,10 @@
   plugin: sources.py
   file: sources-manual.yaml
 - id: doi:10.1101/2021.10.29.466389
-  title: Comparative transcriptomics identifies the transcription factors BRANCHED1
-    and TCP4, as well as the microRNA miR166 as candidate genes involved in the evolutionary
-    transition from dehiscent to indehiscent fruits in <i>Lepidium</i> (Brassicaceae)
+  title: "Comparative transcriptomics identifies the transcription factors BRANCHED1\
+    \ and TCP4, as well as the microRNA miR166 as candidate genes involved in the\
+    \ evolutionary transition from dehiscent to indehiscent fruits in\n          \
+    \        <i>Lepidium</i>\n                  (Brassicaceae)"
   authors:
   - Lydia Gramzow
   - Katharina Klupsch
@@ -477,7 +478,7 @@
   - Manja Marz
   - Stefan A. Rensing
   - "G\xFCnter Thei\xDFen"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-11-01'
   link: https://doi.org/gtjmjp
   plugin: sources.py
@@ -495,7 +496,7 @@
   - "Martin H\xF6lzer"
   - Manja Marz
   - "Kirsten K\xFCsel"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-07-29'
   link: https://doi.org/gtjmjq
   plugin: sources.py
@@ -557,7 +558,7 @@
   - Mateusz Jundzill
   - Mike Marquet
   - "Martin H\xF6lzer"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-05-07'
   link: https://doi.org/gtjmjs
   plugin: sources.py
@@ -704,7 +705,7 @@
   - John Wiedenhoeft
   - Constance Scharff
   - Iris Adam
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-01-09'
   link: https://doi.org/gtjmkc
   plugin: sources.py
@@ -762,7 +763,7 @@
   - Diego Javier Zea
   - Hugues Richard
   - Elodie Laine
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-04-30'
   link: https://doi.org/gtjmkh
   plugin: sources.py
@@ -908,7 +909,7 @@
   - Alexis Baudin
   - Hugues Richard
   - Elodie Laine
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-11-15'
   link: https://doi.org/ghn3f3
   plugin: sources.py
@@ -1931,5 +1932,144 @@
   publisher: Nature Communications
   date: '2025-05-31'
   link: https://doi.org/hbfbgr
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1038/s41592-025-02947-1
+  title: Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny
+  authors:
+  - Martin Hunt
+  - Angie S. Hinrichs
+  - Daniel Anderson
+  - Lily Karim
+  - Bethany L. Dearlove
+  - Jeff Knaggs
+  - Bede Constantinides
+  - Philip W. Fowler
+  - Gillian Rodger
+  - Teresa Street
+  - Sheila Lumley
+  - Hermione Webster
+  - Theo Sanderson
+  - Christopher Ruis
+  - Benjamin Kotzen
+  - Nicola de Maio
+  - Lucas N. Amenga-Etego
+  - Dominic S. Y. Amuzu
+  - Martin Avaro
+  - Gordon A. Awandare
+  - Reuben Ayivor-Djanie
+  - Timothy Barkham
+  - Matthew Bashton
+  - Elizabeth M. Batty
+  - Yaw Bediako
+  - Denise De Belder
+  - Estefania Benedetti
+  - Andreas Bergthaler
+  - Stefan A. Boers
+  - Josefina Campos
+  - Rosina Afua Ampomah Carr
+  - Yuan Yi Constance Chen
+  - Facundo Cuba
+  - Maria Elena Dattero
+  - Wanwisa Dejnirattisai
+  - Alexander Dilthey
+  - Kwabena Obeng Duedu
+  - Lukas Endler
+  - Ilka Engelmann
+  - Ngiambudulu M. Francisco
+  - Jonas Fuchs
+  - Etienne Z. Gnimpieba
+  - Soraya Groc
+  - Jones Gyamfi
+  - Dennis Heemskerk
+  - Torsten Houwaart
+  - Nei-yuan Hsiao
+  - Matthew Huska
+  - "Martin H\xF6lzer"
+  - Arash Iranzadeh
+  - Hanna Jarva
+  - Chandima Jeewandara
+  - Bani Jolly
+  - Rageema Joseph
+  - Ravi Kant
+  - Karrie Ko Kwan Ki
+  - Satu Kurkela
+  - Maija Lappalainen
+  - Marie Lataretu
+  - Jacob Lemieux
+  - Chang Liu
+  - Gathsaurie Neelika Malavige
+  - Tapfumanei Mashe
+  - Juthathip Mongkolsapaya
+  - Brigitte Montes
+  - Jose Arturo Molina Mora
+  - "Collins M. Morang\u2019a"
+  - Bernard Mvula
+  - Niranjan Nagarajan
+  - Andrew Nelson
+  - Joyce M. Ngoi
+  - "Joana Paula da Paix\xE3o"
+  - Marcus Panning
+  - Tomas Poklepovich
+  - Peter K. Quashie
+  - Diyanath Ranasinghe
+  - Mara Russo
+  - James Emmanuel San
+  - Nicholas D. Sanderson
+  - Vinod Scaria
+  - Gavin Screaton
+  - October Michael Sessions
+  - Tarja Sironen
+  - Abay Sisay
+  - Darren Smith
+  - Teemu Smura
+  - Piyada Supasa
+  - Chayaporn Suphavilai
+  - Jeremy Swann
+  - Houriiyah Tegally
+  - Bryan Tegomoh
+  - Olli Vapalahti
+  - Andreas Walker
+  - Robert J. Wilkinson
+  - Carolyn Williamson
+  - Xavier Zair
+  - Barbara Biere
+  - "Ralf D\xFCrrwald"
+  - Christin Mache
+  - Djin-Ye Oh
+  - Jessica Schulze
+  - Marianne Wedde
+  - Thorsten Wolff
+  - Stephan Fuchs
+  - Torsten Semmler
+  - Sofia Paraskevopoulou
+  - Romy Kerber
+  - "Stefan Kr\xF6ger"
+  - Walter Haas
+  - Konrad Bode
+  - Victor Corman
+  - Michael Erren
+  - Patrick Finzer
+  - Roger Grosser
+  - Manuel Haffner
+  - Beate Hermann
+  - Christina Kiel
+  - Andi Krumbholz
+  - Thomas Lorentz
+  - Kristian Meinck
+  - Andreas Nitsche
+  - Markus Petzold
+  - Thomas Schwanz
+  - Florian Szabados
+  - Friedemann Tewald
+  - Carsten Tiemann
+  - Tulio de Oliveira
+  - Timothy EA Peto
+  - Derrick Crook
+  - Russell Corbett-Detig
+  - Zamin Iqbal
+  publisher: Nature Methods
+  date: '2026-02-09'
+  link: https://doi.org/hbn3wn
   plugin: sources.py
   file: sources-manual.yaml
