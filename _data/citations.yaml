@@ -1805,21 +1805,17 @@
   - Thorsten Wolff
   - Martin Mielke
   - "S\xE9bastien Calvignac-Spencer"
-  - Stephan Fuchs
-  - "Martin H\xF6lzer"
   - Matthew Huska
   - Marie Lataretu
   - Vanda Marujo
   - Janine Michel
   - Michaela Niebank
   - Andreas Nitsche
-  - Sofia Paraskevopoulou
   - Aleksandar Radonic
   - Torsten Semmler
   - Maureen Rebecca Smith
   - "Andrea Th\xFCrmer"
   - Wiep van der Toorn
-  - Max von Kleist
   publisher: Communications Medicine
   date: '2025-11-11'
   link: https://doi.org/hbfbgk
@@ -1897,7 +1893,7 @@
   - Louise C. Laurent
   - Rob Knight
   - Kristian G. Andersen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-07-27'
   link: https://doi.org/hbfbgq
   plugin: sources.py
