@@ -1,53 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1038/s44221-025-00444-5
-  title: Augmentation of wastewater-based epidemiology with machine learning to support
-    global health surveillance
-  authors:
-  - "Eva A\xDFmann"
-  - Timo Greiner
-  - Hugues Richard
-  - Matthew Wade
-  - Shelesh Agrawal
-  - Fabian Amman
-  - "Sindy B\xF6ttcher"
-  - Susanne Lackner
-  - Markus Landthaler
-  - Serghei Mangul
-  - Viorel Munteanu
-  - Fotis Psomopoulos
-  - Maureen Smith
-  - Maria Trofimova
-  - Alexander Ullrich
-  - Max von Kleist
-  - Emanuel Wyler
-  - "Martin H\xF6lzer"
-  - Christopher Irrgang
-  publisher: Nature Water
-  date: '2025-06-02'
-  link: https://doi.org/g9pngw
-  image: images/publications/wastewater-machine-learning.png
-  group: highlighted
-  plugin: sources.py
-  file: sources-manual.yaml
-- id: doi:10.1101/2025.01.29.635492
-  title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
-    Nanopore sequencing enables reproducible analysis of DNA modifications'
-  authors:
-  - Valentina Galeone
-  - Johanna Dabernig-Heinz
-  - Mara Lohde
-  - Christian Brandt
-  - Christian Kohler
-  - Gabriel E. Wagner
-  - "Martin H\xF6lzer"
-  publisher: openRxiv
-  date: '2025-02-02'
-  link: https://doi.org/g84h9m
-  image: images/publications/decoding-methylomes.jpg
-  group: highlighted
-  plugin: sources.py
-  file: sources-manual.yaml
 - id: doi:10.3390/immuno5030027
   title: Next-Generation Sequencing Analysis in Greek Patients with Predominantly
     Antibody Deficiencies
@@ -140,6 +92,24 @@
   link: https://doi.org/g89hgq
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1101/2025.01.29.635492
+  title: 'Decoding bacterial methylomes in four public health-relevant microbial species:
+    Nanopore sequencing enables reproducible analysis of DNA modifications'
+  authors:
+  - Valentina Galeone
+  - Johanna Dabernig-Heinz
+  - Mara Lohde
+  - Christian Brandt
+  - Christian Kohler
+  - Gabriel E. Wagner
+  - "Martin H\xF6lzer"
+  publisher: openRxiv
+  date: '2025-02-02'
+  link: https://doi.org/g84h9m
+  plugin: sources.py
+  file: sources-highlighted.yaml
+  image: images/publications/decoding-methylomes.jpg
+  group: highlighted
 - id: doi:10.1099/acmi.0.000936.v2
   title: 'Exploring the genomic landscape of Chlamydiifrater species: Novel features
     include multiple truncated major outer membrane proteins (MOMP), unique genes,
@@ -679,6 +649,36 @@
   link: https://doi.org/g9z329
   plugin: sources.py
   file: sources-manual.yaml
+- id: doi:10.1038/s44221-025-00444-5
+  title: Augmentation of wastewater-based epidemiology with machine learning to support
+    global health surveillance
+  authors:
+  - "Eva A\xDFmann"
+  - Timo Greiner
+  - Hugues Richard
+  - Matthew Wade
+  - Shelesh Agrawal
+  - Fabian Amman
+  - "Sindy B\xF6ttcher"
+  - Susanne Lackner
+  - Markus Landthaler
+  - Serghei Mangul
+  - Viorel Munteanu
+  - Fotis Psomopoulos
+  - Maureen Smith
+  - Maria Trofimova
+  - Alexander Ullrich
+  - Max von Kleist
+  - Emanuel Wyler
+  - "Martin H\xF6lzer"
+  - Christopher Irrgang
+  publisher: Nature Water
+  date: '2025-06-02'
+  link: https://doi.org/g9pngw
+  plugin: sources.py
+  file: sources-highlighted.yaml
+  image: images/publications/wastewater-machine-learning.png
+  group: highlighted
 - id: doi:10.1681/ASN.0000000503
   title: "Systematic Screening of Autosomal Dominant Tubulointerstitial Kidney Disease\u2013\
     MUC1 27dupC Pathogenic Variant through Exome Sequencing"
@@ -2067,5 +2067,250 @@
   publisher: Nature Methods
   date: '2026-02-09'
   link: https://doi.org/hbn3wn
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.3389/fmicb.2026.1821458
+  title: Linking wet-lab and genomic approaches for reliable detection of carbapenemase-producing
+    Klebsiella pneumoniae in wastewater
+  authors:
+  - K. A. Werner
+  - "V. Baji\u0107"
+  - C. Blumenscheit
+  - D. Baum
+  - "D. Desir\xF2"
+  - S. Sedaghatjoo
+  - J. Barthelmes
+  - A. K. Liebschner
+  - "C. F\xF6rster"
+  - S. Fuchs
+  - S. A. Wolf
+  - A. Bethe
+  - "M. H\xF6lzer"
+  - B. Walther
+  publisher: Frontiers in Microbiology
+  date: '2026-06-19'
+  link: https://doi.org/hb9w35
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1093/nar/gkag023
+  title: 'Unlocking the full potential of nanopore sequencing: tips, tricks, and advanced
+    data analysis techniques'
+  authors:
+  - Daria Meyer
+  - Winfried Goettsch
+  - Jannes Spangenberg
+  - Bettina Stieber
+  - Sebastian Krautwurst
+  - "Martin H\xF6lzer"
+  - Christian Brandt
+  - "J\xF6rg Linde"
+  - "Christian H\xF6ner\_zu\_Siederdissen"
+  - Akash Srivastava
+  - Milena Zarkovic
+  - Damian Wollny
+  - Manja Marz
+  publisher: Nucleic Acids Research
+  date: '2026-01-22'
+  link: https://doi.org/hb9w36
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1186/s13059-025-03927-6
+  title: 'SARS-CoV-2 wastewater genomic surveillance: approaches, challenges, and
+    opportunities'
+  authors:
+  - Viorel Munteanu
+  - Michael A. Saldana
+  - David Dreifuss
+  - Wenhao O. Ouyang
+  - Jannatul Ferdous
+  - Fatemeh Mohebbi
+  - Jessica Schlueter Roseberry
+  - Dumitru Ciorba
+  - Viorel Bostan
+  - Victor Gordeev
+  - Nicolae Drabcinski
+  - Justin Maine Su
+  - Nadiia Kasianchuk
+  - Nitesh Kumar Sharma
+  - Sergey Knyazev
+  - "Eva A\xDFmann"
+  - Andrei Lobiuc
+  - Mihai Covasa
+  - Keith A. Crandall
+  - Nicholas C. Wu
+  - Christopher E. Mason
+  - Braden T. Tierney
+  - Alexander G. Lucaci
+  - Roel A. Ophoff
+  - Cynthia Gibas
+  - Piotr Rzymski
+  - Pavel Skums
+  - Helena Solo-Gabriele
+  - Beerenwinkel Niko
+  - Alex Zelikovsky
+  - "Martin H\xF6lzer"
+  - Adam Smith
+  - Serghei Mangul
+  publisher: Genome Biology
+  date: '2026-01-12'
+  link: https://doi.org/hb9w37
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.64898/2026.01.21.700760
+  title: Leveraging a hybrid cross-disciplinary training model to accelerate global
+    bioinformatics capacity
+  authors:
+  - Taras K. Oleksyk
+  - Daryna Yakymenko
+  - "Sylwia Bo\u017Cek"
+  - Viorel Munteanu
+  - Wojciech Pilch
+  - Zoia Comarova
+  - Victor Gordeev
+  - Grigore Boldirev
+  - "Dumitru Ciorb\u0103"
+  - Viorel Bostan
+  - Christopher E. Mason
+  - Alexander G. Lucaci
+  - Nadiia Kasianchuk
+  - Daria Nishchenko
+  - Victoria Popic
+  - Andrei Lobiuc
+  - Mihai Covasa
+  - "Martin H\xF6lzer"
+  - Joanna Polanska
+  - Alex Zelikovsky
+  - Vasili Braga
+  - Mihai Dimian
+  - "Pawe\u0142 \u0141abaj"
+  - Serghei Mangul
+  publisher: openRxiv
+  date: '2026-01-23'
+  link: https://doi.org/hb9w38
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.3390/jcm15062290
+  title: Lessons from Two Early COVID-19 Hospital Outbreaks in Germany to Inform Strategies
+    for Controlling Emerging Nosocomial Outbreaks of Highly Transmissible Respiratory
+    Viruses
+  authors:
+  - Sofia Burdi
+  - Felix Reichert
+  - "Barbara M\xFChlemann"
+  - Victor M. Corman
+  - Terry C. Jones
+  - "Martin H\xF6lzer"
+  - Susanne B. Schink
+  - Patrick Larscheid
+  - Jakob Schumacher
+  - Gudrun Widders
+  - Inas Abdelgawad
+  - Christian Brandt
+  - Nicole Dinsel
+  - Katharina Jelavic
+  - Nadine Kurzke
+  - "J\xF6rg Hofmann"
+  - Janine Michel
+  - Annika Brinkmann
+  - Stephan Fuchs
+  - Christian Drosten
+  - Tim Eckmanns
+  - Muna Abu Sin
+  publisher: Journal of Clinical Medicine
+  date: '2026-03-17'
+  link: https://doi.org/hb9w39
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.1038/s43856-026-01647-x
+  title: "Monitoring viral evolution and epidemiological characteristics of SARS-CoV-2\
+    \ during 2022\u20132023 using Integrated Genomic Surveillance"
+  authors:
+  - Christin Mache
+  - Romy Kerber
+  - Jessica Schulze
+  - Marie Lataretu
+  - Susan Abunijela
+  - Yusra Seyam
+  - Sofia Paraskevopoulou
+  - Djin-Ye Oh
+  - Maximilian Arlt
+  - "Aleksandar Radoni\u0107"
+  - Somayyeh Sedaghatjoo
+  - Matthias Budt
+  - Ann-Sophie Lehfeld
+  - Felix Hartkopf
+  - "Ralf D\xFCrrwald"
+  - Torsten Semmler
+  - Walter Haas
+  - Stephan Fuchs
+  - "Stefan Kr\xF6ger"
+  - Thorsten Wolff
+  - Gerald von Hermanni
+  - Felix Stelter
+  - Laura Gropp
+  - Bernhard Miller
+  - Patrick Chhatwal
+  - Christina Kiel
+  - Abdullah Al Mamun
+  - Konrad A. Bode
+  - Veronika Balau
+  - Anja Kruggel
+  - Roger Grosser
+  - Aida Bajraktarevic
+  - Ralf Ignatius
+  - Juliane Flindt
+  - Ingo Neumann
+  - Manuel Haffner
+  - "Jana L\xF6bner"
+  - Karsten Mydlak
+  - Andi Krumbholz
+  - Thomas Lorentz
+  - Semir Doric
+  - "Thomas M\xFCller"
+  - Denise Buhlmann
+  - Beate Hermann
+  - Claudia Gerlich
+  - Andreas Gerritzen
+  - Carsten Tiemann
+  - Udo Geipel
+  - Bettina Georg
+  - Meike Voss
+  - Sandra Dehn
+  - Friedemann Tewald
+  - Patrick Finzer
+  - Lea Klar
+  - Florian Szabados
+  - Michael Erren
+  - Jerzy Roch Nofer
+  - Alexa Laubner
+  - Markus Petzold
+  - Annika Brinkmann
+  - Andreas Nitsche
+  - Christin Mache
+  - Jessica Schulze
+  publisher: Communications Medicine
+  date: '2026-05-26'
+  link: https://doi.org/hb9w4b
+  plugin: sources.py
+  file: sources-manual.yaml
+- id: doi:10.3201/eid3004.231299
+  title: Bus Riding as Amplification Mechanism for SARS-CoV-2 Transmission, Germany,
+    20211
+  authors:
+  - "Meike Sch\xF6ll"
+  - "Christoph H\xF6hn"
+  - Johannes Boucsein
+  - Felix Moek
+  - Jasper Plath
+  - Maria an der Heiden
+  - Matthew Huska
+  - "Stefan Kr\xF6ger"
+  - Sofia Paraskevopoulou
+  - Claudia Siffczyk
+  - Udo Buchholz
+  - Raskit Lachmann
+  publisher: Emerging Infectious Diseases
+  date: '2024-04-01'
+  link: https://doi.org/hb9w4c
   plugin: sources.py
   file: sources-manual.yaml
